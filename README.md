@@ -11,7 +11,7 @@ Project developed in the DAPI course classes
 
 ## Setup
 
-### Database
+### Starting Services
 
 Simply start the `db` and `pgadmin` services by running:
 
@@ -19,7 +19,15 @@ Simply start the `db` and `pgadmin` services by running:
 docker-compose up
 ```
 
-### pgAdmin
+### Creating the Database
+
+To create the database with the given schema, simply run:
+
+```
+psql -h 127.0.0.1 -U user -d library -f db/schema.sql
+```
+
+### pgAdmin Dashboard
 
 [pgAdmin](https://www.pgadmin.org/) is a web interface to access your postgres database. After running services as explained above, access the [login page](http://localhost:4000) and login with the default credentials (which may be found in `.env`).
 
