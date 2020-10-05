@@ -5,10 +5,18 @@ services:
     image: postgres:alpine
     volumes:
       - db_data:/var/lib/postgres
-    env_file:
-      - .env
     ports:
       - "5432:5432"
+    env_file:
+      - .env
+  pgadmin:
+    image: dpage/pgadmin4
+    ports:
+      - "4000:80"
+    depends_on:
+      - db
+    env_file:
+      - .env
 
 volumes:
   db_data: {}
