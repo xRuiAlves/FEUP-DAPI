@@ -1,12 +1,16 @@
 #!/bin/node
 
+/**
+ * Compute the percentage of reviews from a reviews dataset that intersect with books from a books dataset
+ */
+
 const fs = require("fs");
 const readline = require("readline");
 const { execSync } = require("child_process");
 
 if (process.argv.length < 4) {
     console.error("Invalid number of arguments");
-    console.error("Usage: node get_intersection_percentage.js <book_ids_file> <reviews_file>");
+    console.error("Usage: node reviews_intersection_percentage.js <book_ids_file> <reviews_file>");
     process.exit(1);
 }
 
