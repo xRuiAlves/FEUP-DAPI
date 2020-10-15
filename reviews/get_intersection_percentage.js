@@ -1,7 +1,8 @@
 #!/bin/node
 
 const fs = require("fs");
-const BOOK_IDS_PATH = "./goodreads_book_ids.txt";
+const readline = require("readline");
+const { execSync } = require("child_process");
 
 if (process.argv.length < 4) {
     console.error("Invalid number of arguments");
@@ -17,12 +18,32 @@ const book_ids = new Set(fs.readFileSync(book_ids_path)
     .split("\n")
     .filter((line) => line.length > 0));
 
-const reviews = fs.readFileSync(reviews_path)
-    .toString()
-    .split("\n")
-    .filter((line) => line.length > 0);
+const num_reviews = parseInt(execSync(`wc -l < ${reviews_path}`).toString().trim(), 10);
 
-const num_valid_reviews = reviews.reduce((prev, curr) => prev + (book_ids.has(JSON.parse(curr).book_id) ? 1 : 0), 0);
-const intersection_percentage = (num_valid_reviews / reviews.length * 100);
+const readInterface = readline.createInterface({
+    input: fs.createReadStream(reviews_path),
+});
 
-console.info(intersection_percentage.toFixed(2));
+let i = 0;
+let num_valid_reviews = 0;
+const handleJSONLine = (json_line) => {
+    const { book_id } = JSON.parse(json_line);
+    
+    if (book_ids.has(book_id)) {
+        ++num_valid_reviews;
+    }
+
+    ++i;
+
+    if (i == num_reviews) {
+        const intersection_percentage = (num_valid_reviews / num_reviews * 100);
+
+        console.info(JSON.stringify({
+            num_reviews: num_reviews,
+            num_intersected_reviews: num_valid_reviews,
+            intersection_percentage: parseFloat(intersection_percentage.toFixed(2)),
+        }, null, 4));
+    }
+}
+
+readInterface.on("line", handleJSONLine);
