@@ -83,3 +83,9 @@
 # Intersection between the `books.csv` dataset and parsed reviews dataset
 
 There are `69.96%` of books that have at least on review.
+
+# Correlation between the authors for which we have data `authors.csv` and the books in the original dataset (`books.csv`)
+
+* Books in the dataset: 10000
+* Books for which we have author info: 7603
+* % of books for which we have author info: 76.03%
