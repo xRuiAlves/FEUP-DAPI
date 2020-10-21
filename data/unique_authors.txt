@@ -104,7 +104,7 @@ David McRaney
 Mervyn Peake
 Suzanne Young
 Alison Bechdel
-Paul  Hoffman
+Paul Hoffman
 H. Anna Suh
 Margaret K. Andrews
 Irin Carmon
@@ -119,7 +119,7 @@ Charles Tomlinson
 Leigh Dragoon
 George S. Clason
 Noam Chomsky
-Alan    Richardson
+Alan Richardson
 Steven Levy
 John L. Parker Jr.
 Durjoy Datta
@@ -203,7 +203,7 @@ John Hart
 Janny Wurts
 Hugh Lofting
 Monteiro Lobato
-Elizabeth   Hunter
+Elizabeth Hunter
 Eric Wilson
 Ruth Cardello
 John Locke
@@ -221,14 +221,14 @@ Mario Spezi
 Natasha Anders
 Nils Johnson-Shelton
 Jon Bogdanove
-David  Brooks
+David Brooks
 John Patrick Shanley
 Gretchen Rubin
 Gian Battista Piranesi
-Jenny  Lawson
+Jenny Lawson
 Ayaan Hirsi Ali
 M.R. Carey
-Robert E.  Lee
+Robert E. Lee
 أحمد حلمي
 Kathryn Sutherland
 Annie Di Donna
@@ -275,7 +275,7 @@ Rory Stewart
 Sharon Guskin
 J. Ryan Stradal
 John Rothchild
-Elizabeth  Hall
+Elizabeth Hall
 Sylvan Barnet
 Helen Keller
 Christopher Franceschelli
@@ -308,7 +308,7 @@ Gavin Extence
 Mem Fox
 Aram Saroyan
 C.S. Lewis
-James  Jones
+James Jones
 William S. Burroughs
 Dean Ormston
 Tucker Max
@@ -339,7 +339,7 @@ Harold G. Moore
 Jack Yeovil
 A.G. Riddle
 Plum Sykes
-Beverly  Lewis
+Beverly Lewis
 Marie Lu
 Flannery O'Connor
 Maxine Paetro
@@ -503,7 +503,7 @@ Alison Goodman
 Emma Goldman
 Max Brod
 Mason Currey
-Jean   Stone
+Jean Stone
 Sarah Andersen
 Hans-Friedrich Mueller
 Julianna Baggott
@@ -544,13 +544,13 @@ Corrie ten Boom
 MacLeod Andrews
 Patrick Robinson
 שמואל שניצר
-Elizabeth  Smart
+Elizabeth Smart
 Annie Wu
 Crockett Johnson
 Hilda Rosner
 J.I. Packer
 Rebecca Housel
-David  Arnold
+David Arnold
 Tony Hendra
 望月淳
 David Nicholls
@@ -658,7 +658,7 @@ Aaron Alexovich
 Leo Tolstoy
 Jay Bonansinga
 Charles Belfoure
-Richard   Preston
+Richard Preston
 Glen Duncan
 Cynthia Bond
 Irvin D. Yalom
@@ -717,7 +717,7 @@ Marilynne Robinson
 Thomas L. Friedman
 Allison Silverman
 James Rollins
-Blake  Masters
+Blake Masters
 Robert C. O'Brien
 Malala Yousafzai
 Tracy Brogan
@@ -738,7 +738,7 @@ Chuck Palahniuk
 Grace Ellis
 Ebba Segerberg
 Vanessa Diffenbaugh
-Simon  Jones
+Simon Jones
 Lynne Truss
 Kerstin Gier
 Carlos Ezquerra
@@ -765,7 +765,7 @@ Howard E. Wasdin
 Jason Fabok
 Mary J. Gregor
 Anatoli Boukreev
-Robert  Stone
+Robert Stone
 Brian Ralph
 Megan McDonald
 Elena Ferrante
@@ -943,7 +943,7 @@ Mark Kurlansky
 Emma McLaughlin
 Nevil Shute
 Suzanne Weyn
-Brian  Williams
+Brian Williams
 Ros Ballaster
 Alan Myers
 Pat Frank
@@ -960,7 +960,7 @@ Perry Moore
 Annie Dillard
 Terry Ryan
 Adi Granov
-Brian  McClellan
+Brian McClellan
 John Marsden
 John M. Gottman
 Piers Anthony
@@ -971,13 +971,13 @@ Nathaniel Branden
 Allen Ginsberg
 Margaret Atwood
 Tom Quirk
-Chris   Smith
+Chris Smith
 Amélie Nothomb
 Anthony M. Esolen
 Elizabeth Kann
 Andrew Lloyd Webber
 Richard Winston
-Mary  Stewart
+Mary Stewart
 Pamela Des Barres
 John McCrea
 Leah Wilson
@@ -1072,7 +1072,7 @@ The Waiter
 J. Lynn
 Marc Guggenheim
 Pia Guerra
-Robert   Harris
+Robert Harris
 J.A.K. Thomson
 Richard Flanagan
 Jill Thompson
@@ -1163,7 +1163,7 @@ Gary Russell
 Ian Falconer
 Mary Gordon
 Cacilda Jethá
-Elizabeth S.  Anderson
+Elizabeth S. Anderson
 Kami Garcia
 Stephen Clarke
 Annie Barrows
@@ -1208,7 +1208,7 @@ Cynthia Holloway
 James Dashner
 Sue DiCicco
 Lloyd Alexander
-David   Baron
+David Baron
 冨樫 義博
 Frederick L. Covan
 Jack Campbell
@@ -1225,7 +1225,7 @@ Lucy Sykes
 James Alexander Thom
 Robert S. Levine
 Stephen R. Covey
-William  Kennedy
+William Kennedy
 Miguel Ruiz
 Rob Rogers
 Matt Wagner
@@ -1265,7 +1265,7 @@ JN Productions
 Basil Creighton
 Shūsaku Endō
 Juan Gabriel Vásquez
-Nicole  Williams
+Nicole Williams
 Mahatma Gandhi
 Darcy Lockman
 Arthur Miller
@@ -1335,7 +1335,7 @@ Gayle Forman
 Siobhan Dowd
 Winnie Holzman
 Donna Tartt
-Alex  Ross
+Alex Ross
 Maira Kalman
 Stanley Corngold
 Ruth Krauss
@@ -1374,13 +1374,13 @@ Danae Yankoski
 Bill Simmons
 Erica Jong
 Scott McKowen
-Nathan  Hill
+Nathan Hill
 Oliver Stallybrass
 P.C. Cast
 Peter Glassman
 Lois Ehlert
 R.J. Palacio
-Carolyn  Parkhurst
+Carolyn Parkhurst
 Jack Fruchtman Jr.
 Bill Finger
 J. Maarten Troost
@@ -1402,7 +1402,7 @@ David Wiesner
 Shoich Aoki
 Sandu Florea
 Piers Paul Read
-Laura  McBride
+Laura McBride
 James Hilton
 Leah Remini
 Ernest H. Shepard
@@ -1432,7 +1432,7 @@ Malinda Lo
 Joanne Harris
 Henry Marsh
 Robert Foster
-Don    Wood
+Don Wood
 Kadir Nelson
 Francis A. Schaeffer
 Richard Alpert
@@ -1503,7 +1503,7 @@ Tayeb Salih
 Mary Beth Chapman
 村上 春樹
 Jeph Loeb
-Robert          Jackson
+Robert Jackson
 Bruce Coville
 Janet Evanovich
 Rajaa Alsanea
@@ -1594,7 +1594,7 @@ Andrew Ross Sorkin
 Jim Bouton
 Salvatore Murdocca
 Darrell Schweitzer
-Robert  Beatty
+Robert Beatty
 Tere Liye
 Viktor E. Frankl
 Patrick Lencioni
@@ -1778,7 +1778,7 @@ Edward Gorey
 E.V. Rieu
 Brigitte Sire
 Kevin Wignall
-Mark  Edwards
+Mark Edwards
 Sarah Ockler
 Patricia Ingham
 Robert Ludlum
@@ -1795,7 +1795,7 @@ Stan Grossfeld
 Kevin Sullivan
 Gareth Stedman Jones
 Kohta Hirano
-Wes  Moore
+Wes Moore
 Richard Fusco
 Steve Perry
 Donna Freed
@@ -1805,7 +1805,7 @@ James Frey
 Joseph Smith Jr.
 Hannah Harrington
 Lilith Saintcrow
-Jason  Matthews
+Jason Matthews
 Daniel Wallace
 Michael J. Fox
 Todd Klein
@@ -1814,14 +1814,14 @@ Edward Gibbon
 Philip C. Stead
 Madeleine L'Engle
 Joseph L. Galloway
-Peter  Swanson
+Peter Swanson
 Stephen R. Lawhead
 Leslie Jamison
 Melanie Rawn
 Patrick Arrasmith
 Ken Grimwood
 Kurt Cobain
-Julie   Murphy
+Julie Murphy
 Mario Puzo
 John Updike
 Tracy Kidder
@@ -1870,7 +1870,7 @@ J.L. Bourne
 Kaui Hart Hemmings
 Andrew Clements
 Brian Kilmeade
-Alice  Miller
+Alice Miller
 Bill Moyers
 Elyn R. Saks
 Antony Beevor
@@ -1962,7 +1962,7 @@ Herman Koch
 Richard Philcox
 Max Lucado
 Martin Aitken
-William  Boyd
+William Boyd
 Ann Brashares
 Elle Casey
 Beryl Markham
@@ -2025,7 +2025,7 @@ Lisa Jewell
 Stephanie Dray
 Jacqueline Davies
 Robert B. Cialdini
-Matthew      Lewis
+Matthew Lewis
 Koren Zailckas
 Frank Beddor
 Avi
@@ -2135,7 +2135,7 @@ Ernest Hemingway
 John Stuart Mill
 Kevin Hawkes
 Poppy Z. Brite
-Michael   Meyer
+Michael Meyer
 Ilsa J. Bick
 Rachel Willson-Broyles
 Ellen Schreiber
@@ -2201,7 +2201,7 @@ James C. Collins
 Jon Stewart
 Jean Lee Latham
 Larissa Ione
-Tom    Murphy
+Tom Murphy
 Rich Bloomquist
 Cate Tiernan
 William Least Heat-Moon
@@ -2211,7 +2211,7 @@ A.S. King
 Olivier Coipel
 Joseph O'Neill
 Terry McMillan
-Nate  Taylor
+Nate Taylor
 Heather O'Neill
 Forrest Carter
 Anthony Burgess
@@ -2270,7 +2270,7 @@ Clement Hurd
 Chloe Neill
 Jesse Andrews
 Malcolm Bowie
-Frank  Muller
+Frank Muller
 Jennifer Graham
 Pearl Cleage
 Ed Helms
@@ -2296,7 +2296,7 @@ P.G. Wodehouse
 Cass R. Sunstein
 Alan Moore
 Sam Means
-Matthew  Thomas
+Matthew Thomas
 Michael Cunningham
 Cecily von Ziegesar
 Lauren Morrill
@@ -2366,7 +2366,7 @@ Kristin Levine
 Michelle Rowen
 Sharon Mazel
 Simon Singh
-John  Williams
+John Williams
 Eric Drysdale
 Joshua Hamilton
 Livia E. Bitton-Jackson
@@ -2384,7 +2384,7 @@ Allan Pease
 Shirley Jackson
 Kelly Link
 Martha Hall Kelly
-Laura   Miller
+Laura Miller
 Micah Sparks
 J.M. Coetzee
 Philip K. Dick
@@ -2396,7 +2396,7 @@ Stephen C. Lundin
 Sadegh Hedayat
 Yann Martel
 Laurell K. Hamilton
-Robert           Jackson
+Robert Jackson
 Michael A. Stackpole
 J.R.R. Tolkien
 Sarah McCoy
@@ -2417,7 +2417,7 @@ Mike Loew
 Don Ferguson
 Brian Tracy
 Federico García Lorca
-Hannah  Green
+Hannah Green
 Loretta Chase
 Frederick Douglass
 Marcus Buckingham
@@ -2446,7 +2446,7 @@ Garth Stein
 Anthony Doerr
 Jodi Picoult
 Don Piper
-Danielle  Paige
+Danielle Paige
 Amy Gentry
 Jane O'Connor
 Jerry Hicks
@@ -2550,7 +2550,7 @@ Gillian Flynn
 Yaa Gyasi
 James Andrew Miller
 Herman Melville
-Patrick   Carr
+Patrick Carr
 Mike Lupica
 Edith Hamilton
 Jesse Hamm
@@ -2722,7 +2722,7 @@ Scott Pratt
 Frank Lesser
 James W. Loewen
 Cliff Chiang
-Jessica  Morgan
+Jessica Morgan
 America's Test Kitchen
 Marcus Luttrell
 James Bowen
@@ -2758,7 +2758,7 @@ Sarah M. Lowe
 Mary Borsellino
 Sonia Sotomayor
 S.A. Bodeen
-John     Harrison
+John Harrison
 Gosho Aoyama
 Jerome Lawrence
 SunNeko Lee
@@ -2829,7 +2829,7 @@ Richard Blackaby
 John le Carré
 Christiane F.
 Michael Halbleib
-Richard   Phillips
+Richard Phillips
 Simon Winchester
 Jonathan Kozol
 Aleksandr Griboyedov
@@ -2865,7 +2865,7 @@ Roland Merullo
 Geoff Johns
 Dominique Dill
 Kate Grenville
-Laura  Barnett
+Laura Barnett
 Tappan Wilder
 Amanda Coplin
 Joy Adamson
@@ -2919,7 +2919,7 @@ Elio M. García Jr.
 Margaret Sidney
 Sarra Manning
 Matthew Reilly
-Matthew    Ward
+Matthew Ward
 Doris Kearns Goodwin
 Madeleine Wickham
 Connie Willis
@@ -2927,7 +2927,7 @@ Kim Carpenter
 Christopher Hitchens
 Henri J.M. Nouwen
 Danielle Trussoni
-Patrick  Arrasmith
+Patrick Arrasmith
 John Tenniel
 Gregory Wright
 Daphne du Maurier
@@ -2999,7 +2999,7 @@ Audrey Wood
 Ivan Goncharov
 Bret Witter
 Donna Murphy
-Monica  Murphy
+Monica Murphy
 Paul Zindel
 Stephen Crane
 Peter Salm
@@ -3065,7 +3065,7 @@ Alton Brown
 J.H. Williams III
 K.A. Tucker
 Emmy Laybourne
-Oliver  Harris
+Oliver Harris
 Robert M. Durling
 Russell Hoban
 Wilkie Collins
@@ -3089,7 +3089,7 @@ Jessi Klein
 Donald A. Norman
 Alexandra Bracken
 Alan Hollinghurst
-John  Stephens
+John Stephens
 Erin Watt
 Amy Wallace
 Donald B. Gibson
@@ -3235,7 +3235,7 @@ Seth Grahame-Smith
 Kim Stanley Robinson
 Patty Lovell
 Marcia Brown
-Thomas  Moore
+Thomas Moore
 David Almond
 Angela Duckworth
 Kristen Proby
@@ -3270,12 +3270,12 @@ Anita Shreve
 Jennifer Chiaverini
 Eduardo Risso
 Nate Piekos
-John             Lewis
+John Lewis
 Ralph Steadman
 Kathryn Jackson
 George Gordon Byron
 Gaston Leroux
-Angelo  Rinaldi
+Angelo Rinaldi
 Μαρία Λαϊνά
 Tammy Falkner
 Kent Williams
@@ -3321,7 +3321,7 @@ Wil Huygen
 Anne Rampling
 Gemma Halliday
 Richard Siken
-Amy  Stewart
+Amy Stewart
 Julia Glass
 Erin Gruwell
 Laurann Dohner
@@ -3414,7 +3414,7 @@ Mikhail Bulgakov
 Gerald Durrell
 David B.
 Alice Hoffman
-Karen   White
+Karen White
 Cammie McGovern
 Rebecca Solnit
 Og Mandino
@@ -3514,7 +3514,7 @@ Jan Karon
 Leslie Marmon Silko
 Linda Fairstein
 Andrew Gross
-Barry  Miles
+Barry Miles
 Simms Taback
 Ben Goldacre
 Andrea Hirata
@@ -3586,7 +3586,7 @@ Devin Grayson
 Margret Rey
 Claire Messud
 Anya Seton
-David    Allen
+David Allen
 Benedict Freedman
 Aimee Bender
 Joseph Kesselring
@@ -3612,14 +3612,14 @@ Charles Darwin
 Chuck Wendig
 Melanie Benjamin
 Nicholas D. Kristof
-Alyssa  Harad
+Alyssa Harad
 Nevill Coghill
 Jonas Jonasson
 Sheila McGraw
 Tatiana Sokolov
 Alexis de Tocqueville
 Malvina G. Vogel
-David  Ball
+David Ball
 Martin Amis
 Jesmyn Ward
 Octavia E. Butler
@@ -3636,7 +3636,7 @@ Jerry B. Jenkins
 Sui Ishida
 Jonathan Tropper
 Marjorie Flack
-William  Gibson
+William Gibson
 Martha Stout
 Grace Draven
 Samuel Willcocks
@@ -3658,7 +3658,7 @@ Lalita Tademy
 Gary Frank
 John Dell
 Jenny McCarthy
-William   Nicholson
+William Nicholson
 Nina LaCour
 Tara Conklin
 John E. Brigham
@@ -3668,7 +3668,7 @@ Barbara Ciardo
 Tim Curry
 Richard Bachman
 Dean Merrill
-Sarah  Young
+Sarah Young
 Aristophanes
 Jessie Burton
 Grant Morrison
@@ -3694,7 +3694,7 @@ Amy Tintera
 Lisi Harrison
 Ann M. Martin
 Jackson Butch Guice
-Sheri  Fink
+Sheri Fink
 Brian Azzarello
 Cynthia Hand
 Antoine de Saint-Exupéry
@@ -3741,7 +3741,7 @@ A. Manette Ansay
 خولة حمدي
 Fiona Staples
 David Heinemeier Hansson
-Peter  May
+Peter May
 Ardian Syaf
 Georgia Cates
 Soumei Hoshino
@@ -3799,7 +3799,7 @@ Laura Moriarty
 Henry Gifford
 Albert Camus
 Jim Fergus
-John   Williams
+John Williams
 Bob Ong
 Jessica Anthony
 Norman MacAfee
@@ -3809,12 +3809,12 @@ David Small
 Leslie Lonsdale-Cooper
 Tony Akins
 Dick Hill
-Paul  Edwards
+Paul Edwards
 American Psychiatric Association
 Christopher Lee
 V.S. Ramachandran
 Richard S. Kennedy
-John      Leonard
+John Leonard
 Julie Maroh
 Christopher Priest
 Michio Kaku
@@ -3882,7 +3882,7 @@ Ahlam Mosteghanemi
 G.B. Trudeau
 Yuna Kagesaki
 محمدصادق رئیسی
-William  Davis
+William Davis
 Anna Carey
 Kathleen DeGrave
 Graham Nolan
@@ -3967,8 +3967,8 @@ Chip Zdarsky
 Ulrich Bischoff
 Michael Reaves
 Rachel Maddow
-Mark  Lawrence
-Susan  Jeffers
+Mark Lawrence
+Susan Jeffers
 Christopher Paolini
 Miles Millar
 Howard Pyle
@@ -3979,7 +3979,7 @@ Steve Buccellato
 Rebecca Paley
 Peter F. Hamilton
 Bohumil Hrabal
-Deborah     Smith
+Deborah Smith
 Ransom Riggs
 Roland Barthes
 Keri Hulme
@@ -3990,14 +3990,14 @@ Jay Papasan
 Mike Allred
 Olive E. Kenny
 Norah Borges de Torre
-Karen  Berger
+Karen Berger
 Patrick Benson
 Suzanne Rappaport
 Nancy E. Shaw
 The Beatles
 Marie Milpois
 Laura Park
-David   Lloyd
+David Lloyd
 Emily Dickinson
 Rex Warner
 Gillian McCain
@@ -4028,7 +4028,7 @@ Josh Malerman
 Tony Pi
 Brigitte Walitzek
 Steven Curtis Chapman
-Becky  Chambers
+Becky Chambers
 José Mauro de Vasconcelos
 Lynn Varley
 Melvyn New
@@ -4072,7 +4072,7 @@ Shoichi Aoki
 عزالدين شكري فشير
 Kenneth Womack
 Kresley Cole
-Elizabeth  George
+Elizabeth George
 Chris Sheban
 E.M. Forster
 Louise Rennison
@@ -4108,7 +4108,7 @@ Marie Force
 Jana Deleon
 Amy Meyer
 Victoria Hislop
-Betty  Smith
+Betty Smith
 Louisette Bertholle
 Eckhart Tolle
 Jill Murphy
@@ -4310,7 +4310,7 @@ Abby Craden
 Steve Pugh
 G.P. Ching
 Cristina García
-Mark    Adams
+Mark Adams
 David Lodge
 Amy Schumer
 Peter Freese
@@ -4545,21 +4545,21 @@ Elizabeth Haydon
 Chihiro Iwasaki
 Robert Dugoni
 Elliot S. Maggin
-Thomas  Christensen
+Thomas Christensen
 Alice Clayton
 Robert O'Keefe
 Virginia M. Axline
 Lisa Renee Jones
 Paulo Coelho
 Phyllis Eisenstein
-Terri  Clark
+Terri Clark
 Richard Wright
 Barbara Robinson
 Reza Aslan
 Max Frisch
 Jerome K. Jerome
 Randall Wallace
-James     Baldwin
+James Baldwin
 Alex Rosenberg
 Ashlee Vance
 Lori Brighton
@@ -4647,7 +4647,7 @@ Julie Kagawa
 Edmund Morris
 Tim O'Brien
 Therese Anne Fowler
-Miles  Cameron
+Miles Cameron
 Jessica Verday
 Mark Waid
 Anne Brontë
@@ -4661,7 +4661,7 @@ Marshall McLuhan
 Scott Williams
 Adam Mansbach
 Alfred Lansing
-Sandy   Hall
+Sandy Hall
 Gail Tsukiyama
 Sandee Hathaway
 Andrew Hunt
@@ -4739,7 +4739,7 @@ Christopher Paul Curtis
 Judy Blume
 Renee Ahdieh
 Habiburrahman El-Shirazy
-Christopher  Ryan
+Christopher Ryan
 Louis de Bernières
 David Ury
 William March
@@ -4789,11 +4789,11 @@ Linda Coverdale
 أنيس منصور
 A. Meredith Walters
 Julie James
-Anthony  Ryan
+Anthony Ryan
 Nathan Fairbairn
 Diana L. Paxson
 سهراب سپهری
-Michael   Lewis
+Michael Lewis
 Ronald A. Beers
 Donald Nicholson-Smith
 Kathryn Lasky
@@ -4810,7 +4810,7 @@ Larry Bossidy
 Leo Dillon
 L.D. Davis
 Mariana Zapata
-Dan   Harris
+Dan Harris
 A.C. Gaughen
 Frantz Fanon
 Foster W. Cline
@@ -4891,7 +4891,7 @@ Tony Shasteen
 Heather Cocks
 Carl Bernstein
 Rachel Simon
-James  Marshall
+James Marshall
 Tim Hamilton
 G.K. Chesterton
 Jen Hatmaker
@@ -4970,7 +4970,7 @@ David Hackett Fischer
 Indu Sundaresan
 Natasha Solomons
 Lloyd Jones
-Scott  Hawkins
+Scott Hawkins
 Bret Easton Ellis
 بهرام مقدادی
 Becky Cloonan
@@ -5039,7 +5039,7 @@ Jodi Meadows
 Quentin Bacon
 Joel Holland
 M. David Drevs
-Kathy  Keller
+Kathy Keller
 Debra Dean
 John Layman
 Winslow Pinney Pels
@@ -5313,7 +5313,7 @@ Giorgio Vasari
 Sarah L. Delany
 Sue Miller
 Heather Brewer
-Steven  Rowley
+Steven Rowley
 Gloria Levine
 Jennifer Estep
 Guy Delisle
@@ -5327,7 +5327,7 @@ John Tiffany
 Portia de Rossi
 Kimon Nicolaides
 Earl Lee
-James  Hankins
+James Hankins
 Richard Francis Burton
 Colum McCann
 Liza Klaussmann
@@ -5344,7 +5344,7 @@ Patrick Stewart
 D.J. Molles
 Stephanie Perkins
 Jandy Nelson
-Susan  Wilson
+Susan Wilson
 Katherine Addison
 Elizabeth George Speare
 Blair Lent
@@ -5359,7 +5359,7 @@ Loek Koopmans
 Joe Sachs
 Nando Parrado
 Al Franken
-Laura       Martin
+Laura Martin
 Mike Barnicle
 Robert W. Lawson
 Geoffrey Chaucer
@@ -5475,7 +5475,7 @@ Boris Strugatsky
 Christos Tsiolkas
 Aprilynne Pike
 Nick Offerman
-David  Perlmutter
+David Perlmutter
 Cao Chi
 Lorraine Hansberry
 Alex Berenson
@@ -5490,7 +5490,7 @@ Audre Lorde
 Abigail Haas
 Barbara Shook Hazen
 Liz Tuccillo
-Charles  de Lint
+Charles de Lint
 Tim Jonke
 Miyuki Kobayashi
 Sheryl WuDunn
@@ -5508,7 +5508,7 @@ Martin Sorrell
 Lauren DeStefano
 Marian Potter
 Susan Coolidge
-Kevin    Wilson
+Kevin Wilson
 Robert M. Pirsig
 Robin Oliveira
 Michael Tanner
@@ -5584,7 +5584,7 @@ Tedd Arnold
 Steven Naifeh
 Kevin Stein
 Eric Shanower
-Janice  Thompson
+Janice Thompson
 Rodney Ramos
 Michael Rogalski
 Andy Kubert
@@ -5615,7 +5615,7 @@ Henry Fielding
 Ramez Naam
 Thomas More
 Josephine Tey
-J.  Daniels
+J. Daniels
 Steven Kellogg
 Damon Knight
 Chungliang Al Huang
@@ -5635,9 +5635,9 @@ Eowyn Ivey
 Ed Brubaker
 Gabriel García Márquez
 James Ellroy
-Owen  West
+Owen West
 Blythe Woolston
-Andrew  Smith
+Andrew Smith
 Joseph Boyden
 Mikhail Lermontov
 Sandra Brown
@@ -5658,7 +5658,7 @@ Eleanor H. Porter
 Edwin O. Reischauer
 Michael Zulli
 Piper Kerman
-Sally   Thorne
+Sally Thorne
 Elaine N. Aron
 Jane Green
 Thomas Cahill
@@ -5692,7 +5692,7 @@ Wendy Higgins
 Jussi Adler-Olsen
 Sally Bedell Smith
 Megan Shepherd
-Scott  Meyer
+Scott Meyer
 Meredith Wild
 Gia-Fu Feng
 Josh Hamilton
@@ -5726,7 +5726,7 @@ Tom Percival
 Michael D. Watkins
 Brett Helquist
 Goran Parlov
-Alex   Sanchez
+Alex Sanchez
 David V. Erdman
 Gene Zion
 Daniel Vozzo
@@ -5735,7 +5735,7 @@ Vi Keeland
 Dan Green
 Morgan Matson
 Claire Lamont
-Michael  Grant
+Michael Grant
 Mary Elizabeth Braddon
 Emily Brontë
 H.M. Parshley
@@ -5788,7 +5788,7 @@ Rachel Vincent
 Mika Waltari
 Boris de Schlœzer
 Jamie Ford
-Andrew  Peterson
+Andrew Peterson
 Phyllis Reynolds Naylor
 Al Ries
 Vince Locke
@@ -5797,7 +5797,7 @@ John G. Neihardt
 Bill Watterson
 Harlan Coben
 Siddhartha Mukherjee
-Eric    Weiner
+Eric Weiner
 J.G. Ballard
 Alison Croggon
 August Derleth

@@ -30,21 +30,20 @@ const handleCSVLine = (csv_line) => {
     
     const goodreads_book_id = book[1];
     const title = book[9].length !== 0 ? book[9] : book[10];
-    const authors = `"${book[7]}"`;
+    const authors = book[7];
     const isbn = book[5];
     const publication_year = book[8].length !== 0 ? parseInt(book[8], 10): "";
     const language_code = book[11];
     const rating = book[12];
+
+    const output_line = [goodreads_book_id, title, authors, isbn, publication_year, language_code, rating]
+        .map(elem => `${elem}`)
+        .map(elem => elem.replace(/\"/g, "'"))
+        .map(elem => elem.replace(/\s+/g, " "))
+        .map(elem => `"${elem}"`)
+        .join(",");
     
-    console.info([
-        goodreads_book_id,
-        title,
-        authors,
-        isbn,
-        publication_year,
-        language_code,
-        rating,
-    ].join(","))
+    console.info(output_line);
 }
 
 readInterface.on("line", handleCSVLine);
