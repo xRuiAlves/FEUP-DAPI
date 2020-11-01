@@ -447,17 +447,11 @@
       <tokenizer class="solr.WhitespaceTokenizerFactory"/>
     </analyzer>
   </fieldType>
-  <fieldType name="commaDelimited" class="solr.TextField">
-    <analyzer>
-      <tokenizer class="solr.SimplePatternSplitTokenizerFactory" pattern="[,]"/>
-    </analyzer>    
-  </fieldType>
   <field name="_nest_path_" type="_nest_path_"/>
   <field name="_root_" type="string" docValues="false" indexed="true" stored="false"/>
   <field name="_text_" type="text_general" multiValued="true" indexed="true" stored="false"/>
   <field name="_version_" type="plong" indexed="false" stored="false"/>
-  <!-- <field name="authors" type="string" uninvertible="true" default="" multiValued="true" indexed="true" stored="true"/> -->
-  <field name="authors" type="commaDelimited" indexed="true" stored="true"/>
+  <field name="authors" type="string" uninvertible="true" default="" multiValued="true" indexed="true" stored="true"/>
   <field name="goodreads_book_id" type="pint" uninvertible="true" indexed="true" stored="true"/>
   <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
   <field name="isbn" type="string" uninvertible="true" indexed="true" stored="true"/>
