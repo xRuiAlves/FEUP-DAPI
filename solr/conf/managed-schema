@@ -277,12 +277,18 @@
       <tokenizer class="solr.StandardTokenizerFactory"/>
       <filter class="solr.StopFilterFactory" words="stopwords.txt" ignoreCase="true"/>
       <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.EnglishPossessiveFilterFactory"/>
+      <filter class="solr.PorterStemFilterFactory"/>
+      <filter class="solr.HyphenatedWordsFilterFactory"/>
     </analyzer>
     <analyzer type="query">
       <tokenizer class="solr.StandardTokenizerFactory"/>
       <filter class="solr.StopFilterFactory" words="stopwords.txt" ignoreCase="true"/>
       <filter class="solr.SynonymGraphFilterFactory" expand="true" ignoreCase="true" synonyms="synonyms.txt"/>
       <filter class="solr.LowerCaseFilterFactory"/>
+      <filter class="solr.EnglishPossessiveFilterFactory"/>
+      <filter class="solr.PorterStemFilterFactory"/>
+      <filter class="solr.HyphenatedWordsFilterFactory"/>
     </analyzer>
   </fieldType>
   <fieldType name="text_general_rev" class="solr.TextField" positionIncrementGap="100">
@@ -450,10 +456,10 @@
   <field name="date" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
   <field name="review_rating" type="plongs" multiValued="false" indexed="true" required="false" stored="true"/>
   <field name="review_text" type="text_general" multiValued="false" indexed="true" required="false" stored="true"/>
-  <field name="author_name" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="author_name" type="text_general" multiValued="false" indexed="true" required="false" stored="true"/>
   <field name="sex_or_gender" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
   <field name="date_of_birth" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
-  <field name="place_of_birth" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="place_of_birth" type="text_general" multiValued="false" indexed="true" required="false" stored="true"/>
   <field name="country_of_citizenship" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
   <field name="_root_" type="string" docValues="false" indexed="true" stored="false"/>
   <field name="_text_" type="text_general" multiValued="true" indexed="true" stored="false"/>
@@ -463,7 +469,7 @@
   <field name="isbn" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
   <field name="language_code" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
   <field name="publication_year" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
-  <field name="title" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="title" type="text_general" multiValued="false" indexed="true" required="false" stored="true"/>
   <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
   <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>
   <dynamicField name="*_ancestor_path" type="ancestor_path" indexed="true" stored="true"/>
