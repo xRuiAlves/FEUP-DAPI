@@ -1,0 +1,1 @@
+node merge_books_schema.js ../../data/books.csv ../../data/authors.csv ../../data/parsed_reviews/reviews.json > ../data/books.json
