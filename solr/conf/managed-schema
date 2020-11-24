@@ -2,7 +2,6 @@
 <!-- Solr managed schema - automatically generated - DO NOT EDIT -->
 <schema name="default-config" version="1.6">
   <uniqueKey>id</uniqueKey>
-  <fieldType name="_nest_path_" class="solr.NestPathField" maxCharsForDocValues="-1" omitNorms="true" omitTermFreqAndPositions="true" stored="false"/>
   <fieldType name="ancestor_path" class="solr.TextField">
     <analyzer type="index">
       <tokenizer class="solr.KeywordTokenizerFactory"/>
@@ -447,18 +446,19 @@
       <tokenizer class="solr.WhitespaceTokenizerFactory"/>
     </analyzer>
   </fieldType>
-  <field name="_nest_path_" type="_nest_path_"/>
+  <field name="book_id" type="plongs"/>
+  <field name="date" type="string"/>
+  <field name="review_rating" type="plongs"/>
+  <field name="review_text" type="text_general"/>
   <field name="_root_" type="string" docValues="false" indexed="true" stored="false"/>
   <field name="_text_" type="text_general" multiValued="true" indexed="true" stored="false"/>
   <field name="_version_" type="plong" indexed="false" stored="false"/>
-  <field name="authors" type="string" uninvertible="true" default="" multiValued="true" indexed="true" stored="true"/>
-  <field name="goodreads_book_id" type="pint" uninvertible="true" indexed="true" stored="true"/>
-  <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
-  <field name="isbn" type="string" uninvertible="true" indexed="true" stored="true"/>
-  <field name="language_code" type="string" uninvertible="true" indexed="true" stored="true"/>
-  <field name="publication_year" type="pint" uninvertible="true" indexed="true" stored="true"/>
-  <field name="rating" type="pfloat" uninvertible="true" indexed="true" stored="true"/>
-  <field name="title" type="string" uninvertible="true" indexed="true" stored="true"/>
+  <field name="book_rating" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="id" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="isbn" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="language_code" type="text_general"/>
+  <field name="publication_year" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
+  <field name="title" type="string" multiValued="false" indexed="true" required="false" stored="true"/>
   <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
   <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>
   <dynamicField name="*_ancestor_path" type="ancestor_path" indexed="true" stored="true"/>
@@ -528,4 +528,6 @@
   <dynamicField name="*_f" type="pfloat" indexed="true" stored="true"/>
   <dynamicField name="*_d" type="pdouble" indexed="true" stored="true"/>
   <dynamicField name="*_p" type="location" indexed="true" stored="true"/>
+  <copyField source="language_code" dest="language_code_str" maxChars="256"/>
+  <copyField source="review_text" dest="review_text_str" maxChars="256"/>
 </schema>

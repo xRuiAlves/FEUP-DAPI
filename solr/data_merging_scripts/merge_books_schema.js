@@ -23,10 +23,11 @@ const raw_reviews = getFileLines(review_file_path);
 const authors_map = {};
 raw_authors.forEach((entry) => {
     const [name, sex_or_gender, date_of_birth, country_of_citizenship, place_of_birth] = parse(entry, { columns: false })[0];
+    const normalized_date_of_birth = date_of_birth.split(",")[0];
     authors_map[name] = {
         name,
         sex_or_gender,
-        date_of_birth,
+        date_of_birth: normalized_date_of_birth,
         country_of_citizenship,
         place_of_birth
     };
@@ -35,30 +36,43 @@ raw_authors.forEach((entry) => {
 // build reviews map
 const reviews_map = {};
 raw_reviews.forEach((entry) => {
-    const review = JSON.parse(entry);
+    const { book_id, rating, review_text, date } = JSON.parse(entry);
 
-    if (!reviews_map[review.book_id]) {
-        reviews_map[review.book_id] = [];
+    if (!reviews_map[book_id]) {
+        reviews_map[book_id] = [];
     }
 
-    reviews_map[review.book_id].push(review);
+    reviews_map[book_id].push({
+        book_id,
+        review_rating: rating,
+        review_text,
+        date
+    });
 });
 
-raw_books.forEach((book) => {
+const parsed_books = raw_books.map((book) => {
     const [goodreads_book_id, title, raw_authors, isbn, publication_year, language_code, rating] = parse(book, { columns: false })[0];
 
     const authors_names = raw_authors.split(",").map((name) => name.trim());
-    const authors = authors_names.map((name) => authors_map[name]).filter((entry) => entry !== undefined);
+    const authors = authors_names.map((name) => authors_map[name] || {
+        author_name: name,
+        sex_or_gender: "",
+        date_of_birth: "",
+        country_of_citizenship: "",
+        place_of_birth: ""
+    });
     const reviews = reviews_map[goodreads_book_id];
 
-    console.info(JSON.stringify({
-        goodreads_book_id,
+    return {
+        id: goodreads_book_id,
         title,
         isbn,
         publication_year,
         language_code,
-        rating,
-        authors,
-        reviews
-    }));
+        book_rating: rating,
+        // authors,
+        "_childDocuments_": reviews
+    };
 });
+
+console.info(JSON.stringify(parsed_books, null, 2));
