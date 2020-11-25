@@ -2,6 +2,12 @@
 
 ## Prepare data
 
+First, build the `reviews.json` file under the `/data/parsed_reviews` directory:
+
+```
+cat *.json > reviews.json
+```
+
 To build the JSON file for importing:
 
 ```
