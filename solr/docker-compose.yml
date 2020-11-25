@@ -1,14 +1,31 @@
 version: '3'
 
 services:
-  solr:
+  solr_system_1:
     build:
       context: .
       dockerfile: Dockerfile
     ports:
-     - "8983:8983"
+      - "8983:8983"
     volumes:
-      - data:/var/solr
-      
-volumes:
-  data:
+      - "./data:/var/solr"
+  solr_system_2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args: 
+        confdir: conf2
+    ports:
+      - "8984:8983"
+    volumes:
+      - "./data2:/var/solr"
+  solr_system_3:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args: 
+        confdir: conf3
+    ports:
+      - "8985:8983"
+    volumes:
+      - "./data3:/var/solr"

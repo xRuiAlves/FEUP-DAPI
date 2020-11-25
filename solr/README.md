@@ -50,3 +50,15 @@ It should take 40 to 60 seconds to import everything.
     - `book_rating:*` should return 10k documents (books)
     - `review_rating:*` should return about 498k documents (reviews)
     - `author_name:*` should return about 13k documents (authors, some tupples are repeated, as expected)
+
+## Running 3 systems at the same time
+
+- `docker-compose up --build`
+- On a separate terminal:
+    - `docker-compose exec solr_system_1 post -c books -format solr data/books.json`
+    - `docker-compose exec solr_system_2 post -c books -format solr data/books.json`
+    - `docker-compose exec solr_system_3 post -c books -format solr data/books.json`
+- Accessing the UIs:
+    - http://localhost:8983
+    - http://localhost:8984
+    - http://localhost:8985
