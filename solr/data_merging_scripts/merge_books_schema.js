@@ -37,7 +37,8 @@ raw_authors.forEach((entry) => {
         sex_or_gender,
         date_of_birth: normalized_date_of_birth,
         country_of_citizenship,
-        place_of_birth
+        place_of_birth,
+        entity_type: "author",
     });
 });
 
@@ -49,7 +50,8 @@ raw_reviews.forEach((entry) => {
         book_name: books_map[book_id],
         review_rating: rating,
         review_text,
-        date
+        date,
+        entity_type: "review",
     });
 });
 
@@ -64,6 +66,7 @@ raw_books.forEach((book) => {
         publication_year,
         language_code,
         book_rating: rating,
+        entity_type: "book",
     });
 });
 
