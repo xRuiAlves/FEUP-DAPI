@@ -21,6 +21,13 @@ const raw_reviews = getFileLines(review_file_path);
 
 const parsed_entities = [];
 
+// create books map
+const books_map = {};
+raw_books.forEach((entry) => {
+    const [goodreads_book_id, title] = parse(entry, { columns: false })[0];
+    books_map[goodreads_book_id] = title;
+})
+
 // authors
 raw_authors.forEach((entry) => {
     const [name, sex_or_gender, date_of_birth, country_of_citizenship, place_of_birth] = parse(entry, { columns: false })[0];
@@ -39,6 +46,7 @@ raw_reviews.forEach((entry) => {
     const { book_id, rating, review_text, date } = JSON.parse(entry);
     parsed_entities.push({
         book_id,
+        book_name: books_map[book_id],
         review_rating: rating,
         review_text,
         date
@@ -47,8 +55,9 @@ raw_reviews.forEach((entry) => {
 
 // books
 raw_books.forEach((book) => {
-    const [goodreads_book_id, title, raw_authors, isbn, publication_year, language_code, rating] = parse(book, { columns: false })[0];
+    const [goodreads_book_id, title, authors, isbn, publication_year, language_code, rating] = parse(book, { columns: false })[0];
     parsed_entities.push({
+        authors,
         id: goodreads_book_id,
         title,
         isbn,
