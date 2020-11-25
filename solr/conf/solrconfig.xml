@@ -700,7 +700,7 @@
       -->
     <lst name="defaults">
       <str name="echoParams">explicit</str>
-      <int name="rows">10</int>
+      <int name="rows">100</int>
       <!-- Default search field
          <str name="df">text</str> 
         -->
@@ -773,7 +773,8 @@
 
   <initParams path="/update/**,/query,/select,/spell">
     <lst name="defaults">
-      <str name="df">_text_</str>
+      <str name="df">review_text</str>
+      <str name="qf">title review_text author_name place_of_birth</str>
     </lst>
   </initParams>
 

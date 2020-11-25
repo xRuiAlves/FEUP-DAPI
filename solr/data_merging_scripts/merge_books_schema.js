@@ -19,30 +19,25 @@ const raw_books = getFileLines(books_file_path).slice(1);
 const raw_authors = getFileLines(authors_file_path).slice(1);
 const raw_reviews = getFileLines(review_file_path);
 
-// build authors map
-const authors_map = {};
+const parsed_entities = [];
+
+// authors
 raw_authors.forEach((entry) => {
     const [name, sex_or_gender, date_of_birth, country_of_citizenship, place_of_birth] = parse(entry, { columns: false })[0];
     const normalized_date_of_birth = date_of_birth.split(",")[0];
-    authors_map[name] = {
+    parsed_entities.push({
         author_name: name,
         sex_or_gender,
         date_of_birth: normalized_date_of_birth,
         country_of_citizenship,
         place_of_birth
-    };
+    });
 });
 
-// build reviews map
-const reviews_map = {};
+// reviews
 raw_reviews.forEach((entry) => {
     const { book_id, rating, review_text, date } = JSON.parse(entry);
-
-    if (!reviews_map[book_id]) {
-        reviews_map[book_id] = [];
-    }
-
-    reviews_map[book_id].push({
+    parsed_entities.push({
         book_id,
         review_rating: rating,
         review_text,
@@ -50,26 +45,17 @@ raw_reviews.forEach((entry) => {
     });
 });
 
-const parsed_books = raw_books.map((book) => {
+// books
+raw_books.forEach((book) => {
     const [goodreads_book_id, title, raw_authors, isbn, publication_year, language_code, rating] = parse(book, { columns: false })[0];
-
-    const authors_names = raw_authors.split(",").map((author_name) => author_name.trim());
-    const authors = authors_names.map((author_name) => {
-        const author = authors_map[author_name] || { author_name };
-        author.book_id = goodreads_book_id;
-        return author;
-    });
-    const reviews = reviews_map[goodreads_book_id] || [];
-
-    return {
+    parsed_entities.push({
         id: goodreads_book_id,
         title,
         isbn,
         publication_year,
         language_code,
         book_rating: rating,
-        "_childDocuments_": [ ...reviews, ...authors ]
-    };
+    });
 });
 
-console.info(JSON.stringify(parsed_books, null, 2));
+console.info(JSON.stringify(parsed_entities, null, 2));
