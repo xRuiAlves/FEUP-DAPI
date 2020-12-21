@@ -1,0 +1,154 @@
+[
+  {
+    "author_name": "Louis Sachar",
+    "sex_or_gender": "male",
+    "date_of_birth": "1954-03-20",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "New York City",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Roald Dahl",
+    "sex_or_gender": "male",
+    "date_of_birth": "1916-09-13",
+    "country_of_citizenship": "United Kingdom, Wales",
+    "place_of_birth": "Llandaff",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Quentin Blake",
+    "sex_or_gender": "male",
+    "date_of_birth": "1932-12-16",
+    "country_of_citizenship": "United Kingdom",
+    "place_of_birth": "Sidcup",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Stephen King",
+    "sex_or_gender": "male",
+    "date_of_birth": "1947-09-21",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "Portland",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Bernie Wrightson",
+    "sex_or_gender": "male",
+    "date_of_birth": "1948-10-27",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "Baltimore",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Kami Garcia",
+    "sex_or_gender": "female",
+    "date_of_birth": "1972-03-25",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Margaret Stohl",
+    "sex_or_gender": "female",
+    "date_of_birth": "1967-11-14",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "Pasadena",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Alan Moore",
+    "sex_or_gender": "male",
+    "date_of_birth": "1953-11-18",
+    "country_of_citizenship": "United Kingdom",
+    "place_of_birth": "Northampton",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Dave Gibbons",
+    "sex_or_gender": "male",
+    "date_of_birth": "1949-04-14",
+    "country_of_citizenship": "United Kingdom",
+    "place_of_birth": "United Kingdom",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "John Higgins",
+    "sex_or_gender": "male",
+    "date_of_birth": "1975-05-18",
+    "country_of_citizenship": "United Kingdom",
+    "place_of_birth": "Wishaw",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Mary Ann Shaffer",
+    "sex_or_gender": "female",
+    "date_of_birth": "1934-12-13",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "Martinsburg",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Annie Barrows",
+    "sex_or_gender": "female",
+    "date_of_birth": "1962-01-01",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "San Diego",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Lewis Carroll",
+    "sex_or_gender": "male",
+    "date_of_birth": "1832-01-27",
+    "country_of_citizenship": "United Kingdom of Great Britain and Ireland, United Kingdom",
+    "place_of_birth": "Daresbury",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "John Tenniel",
+    "sex_or_gender": "male",
+    "date_of_birth": "1820-02-28",
+    "country_of_citizenship": "United Kingdom of Great Britain and Ireland",
+    "place_of_birth": "London",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Martin Gardner",
+    "sex_or_gender": "male",
+    "date_of_birth": "1914-10-21",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "Tulsa",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Gabriel García Márquez",
+    "sex_or_gender": "male",
+    "date_of_birth": "1927-03-06",
+    "country_of_citizenship": "Colombia",
+    "place_of_birth": "Aracataca",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Edith Grossman",
+    "sex_or_gender": "female",
+    "date_of_birth": "1936-03-22",
+    "country_of_citizenship": "United States of America",
+    "place_of_birth": "Philadelphia",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Daphne du Maurier",
+    "sex_or_gender": "female",
+    "date_of_birth": "1907-05-13",
+    "country_of_citizenship": "United Kingdom",
+    "place_of_birth": "London",
+    "entity_type": "author"
+  },
+  {
+    "author_name": "Sally Beauman",
+    "sex_or_gender": "female",
+    "date_of_birth": "1944-07-25",
+    "country_of_citizenship": "United Kingdom",
+    "place_of_birth": "Totnes",
+    "entity_type": "author"
+  }
+]

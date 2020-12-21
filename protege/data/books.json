@@ -1,0 +1,134 @@
+[
+  {
+    "authors": [
+      "Louis Sachar",
+      "Louis Sachar"
+    ],
+    "id": "38709",
+    "title": "Holes",
+    "isbn": "439244196",
+    "publication_year": "1998",
+    "language_code": "eng",
+    "book_rating": "3.93",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Roald Dahl",
+      "Quentin Blake"
+    ],
+    "id": "6310",
+    "title": "Charlie and the Chocolate Factory",
+    "isbn": "142403881",
+    "publication_year": "1964",
+    "language_code": "eng",
+    "book_rating": "4.1",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Stephen King",
+      "Bernie Wrightson"
+    ],
+    "id": "149267",
+    "title": "The Stand",
+    "isbn": "385199570",
+    "publication_year": "1978",
+    "language_code": "en-US",
+    "book_rating": "4.34",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Kami Garcia",
+      "Margaret Stohl"
+    ],
+    "id": "6304335",
+    "title": "Beautiful Creatures",
+    "isbn": "316042676",
+    "publication_year": "2009",
+    "language_code": "eng",
+    "book_rating": "3.76",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Roald Dahl",
+      "Quentin Blake"
+    ],
+    "id": "39988",
+    "title": "Matilda",
+    "isbn": "141301066",
+    "publication_year": "1988",
+    "language_code": "eng",
+    "book_rating": "4.29",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Alan Moore",
+      "Dave Gibbons",
+      "John Higgins"
+    ],
+    "id": "472331",
+    "title": "Watchmen",
+    "isbn": "930289234",
+    "publication_year": "1987",
+    "language_code": "en-US",
+    "book_rating": "4.35",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Mary Ann Shaffer",
+      "Annie Barrows"
+    ],
+    "id": "2728527",
+    "title": "The Guernsey Literary and Potato Peel Pie Society",
+    "isbn": "385340990",
+    "publication_year": "2008",
+    "language_code": "eng",
+    "book_rating": "4.12",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Lewis Carroll",
+      "John Tenniel",
+      "Martin Gardner"
+    ],
+    "id": "24213",
+    "title": "Alice's Adventures in Wonderland",
+    "isbn": "451527747",
+    "publication_year": "1865",
+    "language_code": "eng",
+    "book_rating": "4.06",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Gabriel García Márquez",
+      "Edith Grossman"
+    ],
+    "id": "9712",
+    "title": "El amor en los tiempos del cólera",
+    "isbn": "140003468X",
+    "publication_year": "1985",
+    "language_code": "eng",
+    "book_rating": "3.89",
+    "entity_type": "book"
+  },
+  {
+    "authors": [
+      "Daphne du Maurier",
+      "Sally Beauman"
+    ],
+    "id": "12873",
+    "title": "Rebecca",
+    "isbn": "1844080382",
+    "publication_year": "1938",
+    "language_code": "en-US",
+    "book_rating": "4.2",
+    "entity_type": "book"
+  }
+]
