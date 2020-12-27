@@ -2,6 +2,9 @@
 
 const fs = require("fs");
 const parse = require("csv-parse/lib/sync");
+const { AUTHORS_CSV_HEADERS, REVIEWS_CSV_HEADERS, BOOKS_CSV_HEADERS } = require("./csv_headers");
+
+const arrToCsv = (arr) => arr.map(elem => `"${elem}"`).join(",");
 
 const VALID_OUTPUT_ENTITIES = Object.freeze({
     BOOKS: "books",
@@ -34,7 +37,6 @@ const raw_reviews = getFileLines(review_file_path);
 
 const authors_map = new Map()
 const books_map = new Map()
-const author_to_books_map = new Map()
 const book_to_reviews_map = new Map()
 
 // authors
@@ -48,34 +50,25 @@ raw_authors.forEach((entry) => {
         date_of_birth: normalized_date_of_birth,
         country_of_citizenship,
         place_of_birth,
-        entity_type: "author",
     });
 });
 
 // books
 raw_books.forEach((book) => {
     const [goodreads_book_id, title, authors, isbn, publication_year, language_code, rating] = parse(book, { columns: false })[0];
-    const authors_arr = authors.split(", ")
+    const author = authors.split(", ")[0]
 
     const book_obj = {
-        authors: authors_arr,
+        author,
         id: goodreads_book_id,
         title,
         isbn,
         publication_year,
         language_code,
         book_rating: rating,
-        entity_type: "book",
     };
 
     books_map.set(book_obj.id, book_obj)
-
-    authors_arr.forEach(author => {
-        if (!author_to_books_map.has(author)) {
-            author_to_books_map.set(author, new Set())
-        }
-        author_to_books_map.get(author).add(book_obj)
-    })
 });
 
 // reviews
@@ -87,7 +80,6 @@ raw_reviews.forEach((entry) => {
         review_rating: rating,
         review_text,
         date,
-        entity_type: "review",
     };
 
     if (!book_to_reviews_map.has(book_id)) {
@@ -100,16 +92,13 @@ raw_reviews.forEach((entry) => {
 const isBookValid = (book) => {
     if (!(
         book_to_reviews_map.has(book.id) && 
-        book_to_reviews_map.get(book.id).size >= 12 && 
-        book.authors.length >= 2
+        book_to_reviews_map.get(book.id).size >= 12
     )) {
         return false;
     }
 
-    for (let author_name of book.authors) {
-        if (!authors_map.has(author_name)) {
-            return false;
-        }
+    if (!authors_map.has(book.author)) {
+        return false;
     }
 
     return true;
@@ -121,9 +110,8 @@ const books =
     .slice(0, 10)
 
 const authors = [...new Set(books
-    .map(book => book.authors)
-    .flat())]
-    .map(author_name => authors_map.get(author_name))
+    .map(book => book.author))]
+    .map(author => authors_map.get(author))
 
 const reviews = books
     .map(book => [...book_to_reviews_map.get(book.id)])
@@ -131,12 +119,15 @@ const reviews = books
 
 switch(output_entities) {
     case VALID_OUTPUT_ENTITIES.BOOKS: 
-        console.info(JSON.stringify(books, null, 2));
+        console.info(arrToCsv(BOOKS_CSV_HEADERS));
+        books.forEach(book => console.info(arrToCsv(Object.values(book))));
         break;
     case VALID_OUTPUT_ENTITIES.AUTHORS:
-        console.info(JSON.stringify(authors, null, 2));
+        console.info(arrToCsv(AUTHORS_CSV_HEADERS));
+        authors.forEach(author => console.info(arrToCsv(Object.values(author))));
         break;
     case VALID_OUTPUT_ENTITIES.REVIEWS:
-        console.info(JSON.stringify(reviews, null, 2));
+        console.info(arrToCsv(REVIEWS_CSV_HEADERS));
+        reviews.forEach(review => console.info(arrToCsv(Object.values(review))));
         break;
 }
