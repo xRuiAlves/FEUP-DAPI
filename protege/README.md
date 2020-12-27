@@ -2,17 +2,15 @@
 
 ## Prepare dataset
 
-First, build the `reviews.json` file under the `/data/parsed_reviews` directory:
+First, build the `reviews.json` file under the `$REPO/data/parsed_reviews` directory:
 
 ```
 cat *.json > reviews.json
 ```
 
-To build the filtered dataset files for importing:
+To build the filtered dataset files for importing, under the `$REPO/protege/dataset_filtering_scripts/`:
 
 ```
-cd dataset_filtering_scripts
-
 # install the "csv-parse" node module if needed
 npm i csv-parse
 
@@ -20,7 +18,7 @@ npm i csv-parse
 ./filter_dataset.sh
 ```
 
-This will build 3 CSV files under the `:repo/protege/data` directory:
+This will build 3 CSV files under the `$REPO/protege/data` directory:
 
 - `books.jcsv`, featuring the filtered books set
 - `authors.jcsv`, featuing the filtered authors set

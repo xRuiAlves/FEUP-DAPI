@@ -1,0 +1,2897 @@
+Date: 2020-12-27 22:26:30
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+===========================================================================================================
+Date: 2020-12-27 22:26:45
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+===========================================================================================================
+Date: 2020-12-27 22:27:56
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasName @D*
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasName "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasName "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+===========================================================================================================
+Date: 2020-12-27 22:28:55
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasName @D*
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasName "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasName "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasName "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasName @E*
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasName "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasName "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasName "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasName "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasName "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasName "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasName "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasName "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+===========================================================================================================
+Date: 2020-12-27 22:35:22
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+===========================================================================================================
+Date: 2020-12-27 22:45:11
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+===========================================================================================================
+Date: 2020-12-27 22:49:06
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+===========================================================================================================
+Date: 2020-12-27 22:50:13
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+===========================================================================================================
+Date: 2020-12-27 22:55:14
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+# Cell range: (books!B2:B+) Comment: "GoodreadsID"
+# Individual: @B*
+# Types: GoodreadsID
+# Facts: hasValue @B*(xsd:string)
+
+Individual: 2767052  # Generated from value "2767052" located at cell 'books'!B2.
+   Facts: hasValue "2767052"  # Generated from value "2767052" located at cell 'books'!B2.
+   Types: GoodreadsID
+Individual: 41865  # Generated from value "41865" located at cell 'books'!B3.
+   Facts: hasValue "41865"  # Generated from value "41865" located at cell 'books'!B3.
+   Types: GoodreadsID
+Individual: 2657  # Generated from value "2657" located at cell 'books'!B4.
+   Facts: hasValue "2657"  # Generated from value "2657" located at cell 'books'!B4.
+   Types: GoodreadsID
+Individual: 960  # Generated from value "960" located at cell 'books'!B5.
+   Facts: hasValue "960"  # Generated from value "960" located at cell 'books'!B5.
+   Types: GoodreadsID
+Individual: 1885  # Generated from value "1885" located at cell 'books'!B6.
+   Facts: hasValue "1885"  # Generated from value "1885" located at cell 'books'!B6.
+   Types: GoodreadsID
+Individual: 13335037  # Generated from value "13335037" located at cell 'books'!B7.
+   Facts: hasValue "13335037"  # Generated from value "13335037" located at cell 'books'!B7.
+   Types: GoodreadsID
+Individual: 48855  # Generated from value "48855" located at cell 'books'!B8.
+   Facts: hasValue "48855"  # Generated from value "48855" located at cell 'books'!B8.
+   Types: GoodreadsID
+Individual: 2429135  # Generated from value "2429135" located at cell 'books'!B9.
+   Facts: hasValue "2429135"  # Generated from value "2429135" located at cell 'books'!B9.
+   Types: GoodreadsID
+Individual: 6148028  # Generated from value "6148028" located at cell 'books'!B10.
+   Facts: hasValue "6148028"  # Generated from value "6148028" located at cell 'books'!B10.
+   Types: GoodreadsID
+Individual: 7260188  # Generated from value "7260188" located at cell 'books'!B11.
+   Facts: hasValue "7260188"  # Generated from value "7260188" located at cell 'books'!B11.
+   Types: GoodreadsID
+
+===========================================================================================================
+Date: 2020-12-27 22:57:10
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+# Cell range: (books!B2:B+) Comment: "GoodreadsID"
+# Individual: @B*
+# Types: GoodreadsID
+# Facts: hasValue @B*(xsd:string)
+
+Individual: 2767052  # Generated from value "2767052" located at cell 'books'!B2.
+   Facts: hasValue "2767052"  # Generated from value "2767052" located at cell 'books'!B2.
+   Types: GoodreadsID
+Individual: 41865  # Generated from value "41865" located at cell 'books'!B3.
+   Facts: hasValue "41865"  # Generated from value "41865" located at cell 'books'!B3.
+   Types: GoodreadsID
+Individual: 2657  # Generated from value "2657" located at cell 'books'!B4.
+   Facts: hasValue "2657"  # Generated from value "2657" located at cell 'books'!B4.
+   Types: GoodreadsID
+Individual: 960  # Generated from value "960" located at cell 'books'!B5.
+   Facts: hasValue "960"  # Generated from value "960" located at cell 'books'!B5.
+   Types: GoodreadsID
+Individual: 1885  # Generated from value "1885" located at cell 'books'!B6.
+   Facts: hasValue "1885"  # Generated from value "1885" located at cell 'books'!B6.
+   Types: GoodreadsID
+Individual: 13335037  # Generated from value "13335037" located at cell 'books'!B7.
+   Facts: hasValue "13335037"  # Generated from value "13335037" located at cell 'books'!B7.
+   Types: GoodreadsID
+Individual: 48855  # Generated from value "48855" located at cell 'books'!B8.
+   Facts: hasValue "48855"  # Generated from value "48855" located at cell 'books'!B8.
+   Types: GoodreadsID
+Individual: 2429135  # Generated from value "2429135" located at cell 'books'!B9.
+   Facts: hasValue "2429135"  # Generated from value "2429135" located at cell 'books'!B9.
+   Types: GoodreadsID
+Individual: 6148028  # Generated from value "6148028" located at cell 'books'!B10.
+   Facts: hasValue "6148028"  # Generated from value "6148028" located at cell 'books'!B10.
+   Types: GoodreadsID
+Individual: 7260188  # Generated from value "7260188" located at cell 'books'!B11.
+   Facts: hasValue "7260188"  # Generated from value "7260188" located at cell 'books'!B11.
+   Types: GoodreadsID
+
+# Cell range: (books!D2:D+) Comment: "Isbn"
+# Individual: @D*
+# Types: Isbn
+# Facts: hasValue @D*(xsd:string)
+
+Individual: 439023483  # Generated from value "439023483" located at cell 'books'!D2.
+   Facts: hasValue "439023483"  # Generated from value "439023483" located at cell 'books'!D2.
+   Types: Isbn
+Individual: 316015849  # Generated from value "316015849" located at cell 'books'!D3.
+   Facts: hasValue "316015849"  # Generated from value "316015849" located at cell 'books'!D3.
+   Types: Isbn
+Individual: 61120081  # Generated from value "61120081" located at cell 'books'!D4.
+   Facts: hasValue "61120081"  # Generated from value "61120081" located at cell 'books'!D4.
+   Types: Isbn
+Individual: 1416524797  # Generated from value "1416524797" located at cell 'books'!D5.
+   Facts: hasValue "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.
+   Types: Isbn
+Individual: 679783261  # Generated from value "679783261" located at cell 'books'!D6.
+   Facts: hasValue "679783261"  # Generated from value "679783261" located at cell 'books'!D6.
+   Types: Isbn
+Individual: 62024035  # Generated from value "62024035" located at cell 'books'!D7.
+   Facts: hasValue "62024035"  # Generated from value "62024035" located at cell 'books'!D7.
+   Types: Isbn
+Individual: 553296981  # Generated from value "553296981" located at cell 'books'!D8.
+   Facts: hasValue "553296981"  # Generated from value "553296981" located at cell 'books'!D8.
+   Types: Isbn
+Individual: 307269752  # Generated from value "307269752" located at cell 'books'!D9.
+   Facts: hasValue "307269752"  # Generated from value "307269752" located at cell 'books'!D9.
+   Types: Isbn
+Individual: 439023491  # Generated from value "439023491" located at cell 'books'!D10.
+   Facts: hasValue "439023491"  # Generated from value "439023491" located at cell 'books'!D10.
+   Types: Isbn
+Individual: 439023513  # Generated from value "439023513" located at cell 'books'!D11.
+   Facts: hasValue "439023513"  # Generated from value "439023513" located at cell 'books'!D11.
+   Types: Isbn
+
+# Cell range: (books!E2:E+) Comment: "Date (Book)"
+# Individual: @E*
+# Types: Date
+# Facts: hasValue @E*(xsd:string)
+
+Individual: 2008  # Generated from value "2008" located at cell 'books'!E2.
+   Facts: hasValue "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E3.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Date
+Individual: 1960  # Generated from value "1960" located at cell 'books'!E4.
+   Facts: hasValue "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Date
+Individual: 2000  # Generated from value "2000" located at cell 'books'!E5.
+   Facts: hasValue "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Date
+Individual: 1813  # Generated from value "1813" located at cell 'books'!E6.
+   Facts: hasValue "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Date
+Individual: 2011  # Generated from value "2011" located at cell 'books'!E7.
+   Facts: hasValue "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Date
+Individual: 1947  # Generated from value "1947" located at cell 'books'!E8.
+   Facts: hasValue "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E9.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Date
+Individual: 2009  # Generated from value "2009" located at cell 'books'!E10.
+   Facts: hasValue "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Date
+Individual: 2010  # Generated from value "2010" located at cell 'books'!E11.
+   Facts: hasValue "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Date
+
+===========================================================================================================
+Date: 2020-12-27 22:57:39
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+# Cell range: (books!B2:B+) Comment: "GoodreadsID"
+# Individual: @B*
+# Types: GoodreadsID
+# Facts: hasValue @B*(xsd:string)
+
+Individual: 2767052  # Generated from value "2767052" located at cell 'books'!B2.
+   Facts: hasValue "2767052"  # Generated from value "2767052" located at cell 'books'!B2.
+   Types: GoodreadsID
+Individual: 41865  # Generated from value "41865" located at cell 'books'!B3.
+   Facts: hasValue "41865"  # Generated from value "41865" located at cell 'books'!B3.
+   Types: GoodreadsID
+Individual: 2657  # Generated from value "2657" located at cell 'books'!B4.
+   Facts: hasValue "2657"  # Generated from value "2657" located at cell 'books'!B4.
+   Types: GoodreadsID
+Individual: 960  # Generated from value "960" located at cell 'books'!B5.
+   Facts: hasValue "960"  # Generated from value "960" located at cell 'books'!B5.
+   Types: GoodreadsID
+Individual: 1885  # Generated from value "1885" located at cell 'books'!B6.
+   Facts: hasValue "1885"  # Generated from value "1885" located at cell 'books'!B6.
+   Types: GoodreadsID
+Individual: 13335037  # Generated from value "13335037" located at cell 'books'!B7.
+   Facts: hasValue "13335037"  # Generated from value "13335037" located at cell 'books'!B7.
+   Types: GoodreadsID
+Individual: 48855  # Generated from value "48855" located at cell 'books'!B8.
+   Facts: hasValue "48855"  # Generated from value "48855" located at cell 'books'!B8.
+   Types: GoodreadsID
+Individual: 2429135  # Generated from value "2429135" located at cell 'books'!B9.
+   Facts: hasValue "2429135"  # Generated from value "2429135" located at cell 'books'!B9.
+   Types: GoodreadsID
+Individual: 6148028  # Generated from value "6148028" located at cell 'books'!B10.
+   Facts: hasValue "6148028"  # Generated from value "6148028" located at cell 'books'!B10.
+   Types: GoodreadsID
+Individual: 7260188  # Generated from value "7260188" located at cell 'books'!B11.
+   Facts: hasValue "7260188"  # Generated from value "7260188" located at cell 'books'!B11.
+   Types: GoodreadsID
+
+# Cell range: (books!D2:D+) Comment: "Isbn"
+# Individual: @D*
+# Types: Isbn
+# Facts: hasValue @D*(xsd:string)
+
+Individual: 439023483  # Generated from value "439023483" located at cell 'books'!D2.
+   Facts: hasValue "439023483"  # Generated from value "439023483" located at cell 'books'!D2.
+   Types: Isbn
+Individual: 316015849  # Generated from value "316015849" located at cell 'books'!D3.
+   Facts: hasValue "316015849"  # Generated from value "316015849" located at cell 'books'!D3.
+   Types: Isbn
+Individual: 61120081  # Generated from value "61120081" located at cell 'books'!D4.
+   Facts: hasValue "61120081"  # Generated from value "61120081" located at cell 'books'!D4.
+   Types: Isbn
+Individual: 1416524797  # Generated from value "1416524797" located at cell 'books'!D5.
+   Facts: hasValue "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.
+   Types: Isbn
+Individual: 679783261  # Generated from value "679783261" located at cell 'books'!D6.
+   Facts: hasValue "679783261"  # Generated from value "679783261" located at cell 'books'!D6.
+   Types: Isbn
+Individual: 62024035  # Generated from value "62024035" located at cell 'books'!D7.
+   Facts: hasValue "62024035"  # Generated from value "62024035" located at cell 'books'!D7.
+   Types: Isbn
+Individual: 553296981  # Generated from value "553296981" located at cell 'books'!D8.
+   Facts: hasValue "553296981"  # Generated from value "553296981" located at cell 'books'!D8.
+   Types: Isbn
+Individual: 307269752  # Generated from value "307269752" located at cell 'books'!D9.
+   Facts: hasValue "307269752"  # Generated from value "307269752" located at cell 'books'!D9.
+   Types: Isbn
+Individual: 439023491  # Generated from value "439023491" located at cell 'books'!D10.
+   Facts: hasValue "439023491"  # Generated from value "439023491" located at cell 'books'!D10.
+   Types: Isbn
+Individual: 439023513  # Generated from value "439023513" located at cell 'books'!D11.
+   Facts: hasValue "439023513"  # Generated from value "439023513" located at cell 'books'!D11.
+   Types: Isbn
+
+# Cell range: (books!E2:E+) Comment: "Date (Book)"
+# Individual: @E*
+# Types: Date
+# Facts: hasValue @E*(xsd:string)
+
+Individual: 2008  # Generated from value "2008" located at cell 'books'!E2.
+   Facts: hasValue "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E3.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Date
+Individual: 1960  # Generated from value "1960" located at cell 'books'!E4.
+   Facts: hasValue "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Date
+Individual: 2000  # Generated from value "2000" located at cell 'books'!E5.
+   Facts: hasValue "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Date
+Individual: 1813  # Generated from value "1813" located at cell 'books'!E6.
+   Facts: hasValue "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Date
+Individual: 2011  # Generated from value "2011" located at cell 'books'!E7.
+   Facts: hasValue "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Date
+Individual: 1947  # Generated from value "1947" located at cell 'books'!E8.
+   Facts: hasValue "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E9.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Date
+Individual: 2009  # Generated from value "2009" located at cell 'books'!E10.
+   Facts: hasValue "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Date
+Individual: 2010  # Generated from value "2010" located at cell 'books'!E11.
+   Facts: hasValue "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Date
+
+===========================================================================================================
+Date: 2020-12-27 23:02:48
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+# Cell range: (books!B2:B+) Comment: "GoodreadsID"
+# Individual: @B*
+# Types: GoodreadsID
+# Facts: hasValue @B*(xsd:string)
+
+Individual: 2767052  # Generated from value "2767052" located at cell 'books'!B2.
+   Facts: hasValue "2767052"  # Generated from value "2767052" located at cell 'books'!B2.
+   Types: GoodreadsID
+Individual: 41865  # Generated from value "41865" located at cell 'books'!B3.
+   Facts: hasValue "41865"  # Generated from value "41865" located at cell 'books'!B3.
+   Types: GoodreadsID
+Individual: 2657  # Generated from value "2657" located at cell 'books'!B4.
+   Facts: hasValue "2657"  # Generated from value "2657" located at cell 'books'!B4.
+   Types: GoodreadsID
+Individual: 960  # Generated from value "960" located at cell 'books'!B5.
+   Facts: hasValue "960"  # Generated from value "960" located at cell 'books'!B5.
+   Types: GoodreadsID
+Individual: 1885  # Generated from value "1885" located at cell 'books'!B6.
+   Facts: hasValue "1885"  # Generated from value "1885" located at cell 'books'!B6.
+   Types: GoodreadsID
+Individual: 13335037  # Generated from value "13335037" located at cell 'books'!B7.
+   Facts: hasValue "13335037"  # Generated from value "13335037" located at cell 'books'!B7.
+   Types: GoodreadsID
+Individual: 48855  # Generated from value "48855" located at cell 'books'!B8.
+   Facts: hasValue "48855"  # Generated from value "48855" located at cell 'books'!B8.
+   Types: GoodreadsID
+Individual: 2429135  # Generated from value "2429135" located at cell 'books'!B9.
+   Facts: hasValue "2429135"  # Generated from value "2429135" located at cell 'books'!B9.
+   Types: GoodreadsID
+Individual: 6148028  # Generated from value "6148028" located at cell 'books'!B10.
+   Facts: hasValue "6148028"  # Generated from value "6148028" located at cell 'books'!B10.
+   Types: GoodreadsID
+Individual: 7260188  # Generated from value "7260188" located at cell 'books'!B11.
+   Facts: hasValue "7260188"  # Generated from value "7260188" located at cell 'books'!B11.
+   Types: GoodreadsID
+
+# Cell range: (books!D2:D+) Comment: "Isbn"
+# Individual: @D*
+# Types: Isbn
+# Facts: hasValue @D*(xsd:string)
+
+Individual: 439023483  # Generated from value "439023483" located at cell 'books'!D2.
+   Facts: hasValue "439023483"  # Generated from value "439023483" located at cell 'books'!D2.
+   Types: Isbn
+Individual: 316015849  # Generated from value "316015849" located at cell 'books'!D3.
+   Facts: hasValue "316015849"  # Generated from value "316015849" located at cell 'books'!D3.
+   Types: Isbn
+Individual: 61120081  # Generated from value "61120081" located at cell 'books'!D4.
+   Facts: hasValue "61120081"  # Generated from value "61120081" located at cell 'books'!D4.
+   Types: Isbn
+Individual: 1416524797  # Generated from value "1416524797" located at cell 'books'!D5.
+   Facts: hasValue "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.
+   Types: Isbn
+Individual: 679783261  # Generated from value "679783261" located at cell 'books'!D6.
+   Facts: hasValue "679783261"  # Generated from value "679783261" located at cell 'books'!D6.
+   Types: Isbn
+Individual: 62024035  # Generated from value "62024035" located at cell 'books'!D7.
+   Facts: hasValue "62024035"  # Generated from value "62024035" located at cell 'books'!D7.
+   Types: Isbn
+Individual: 553296981  # Generated from value "553296981" located at cell 'books'!D8.
+   Facts: hasValue "553296981"  # Generated from value "553296981" located at cell 'books'!D8.
+   Types: Isbn
+Individual: 307269752  # Generated from value "307269752" located at cell 'books'!D9.
+   Facts: hasValue "307269752"  # Generated from value "307269752" located at cell 'books'!D9.
+   Types: Isbn
+Individual: 439023491  # Generated from value "439023491" located at cell 'books'!D10.
+   Facts: hasValue "439023491"  # Generated from value "439023491" located at cell 'books'!D10.
+   Types: Isbn
+Individual: 439023513  # Generated from value "439023513" located at cell 'books'!D11.
+   Facts: hasValue "439023513"  # Generated from value "439023513" located at cell 'books'!D11.
+   Types: Isbn
+
+# Cell range: (books!E2:E+) Comment: "Date (Book)"
+# Individual: @E*
+# Types: Date
+# Facts: hasValue @E*(xsd:string)
+
+Individual: 2008  # Generated from value "2008" located at cell 'books'!E2.
+   Facts: hasValue "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E3.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Date
+Individual: 1960  # Generated from value "1960" located at cell 'books'!E4.
+   Facts: hasValue "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Date
+Individual: 2000  # Generated from value "2000" located at cell 'books'!E5.
+   Facts: hasValue "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Date
+Individual: 1813  # Generated from value "1813" located at cell 'books'!E6.
+   Facts: hasValue "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Date
+Individual: 2011  # Generated from value "2011" located at cell 'books'!E7.
+   Facts: hasValue "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Date
+Individual: 1947  # Generated from value "1947" located at cell 'books'!E8.
+   Facts: hasValue "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E9.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Date
+Individual: 2009  # Generated from value "2009" located at cell 'books'!E10.
+   Facts: hasValue "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Date
+Individual: 2010  # Generated from value "2010" located at cell 'books'!E11.
+   Facts: hasValue "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Date
+
+===========================================================================================================
+Date: 2020-12-27 23:13:07
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Downloads\Untitled spreadsheet.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+===========================================================================================================
+Date: 2020-12-27 23:22:32
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+# Cell range: (books!D2:D+) Comment: "Isbn"
+# Individual: @D*
+# Types: Isbn
+# Facts: hasValue @D*(xsd:string)
+
+Individual: 439023483  # Generated from value "439023483" located at cell 'books'!D2.
+   Facts: hasValue "439023483"  # Generated from value "439023483" located at cell 'books'!D2.
+   Types: Isbn
+Individual: 316015849  # Generated from value "316015849" located at cell 'books'!D3.
+   Facts: hasValue "316015849"  # Generated from value "316015849" located at cell 'books'!D3.
+   Types: Isbn
+Individual: 61120081  # Generated from value "61120081" located at cell 'books'!D4.
+   Facts: hasValue "61120081"  # Generated from value "61120081" located at cell 'books'!D4.
+   Types: Isbn
+Individual: 1416524797  # Generated from value "1416524797" located at cell 'books'!D5.
+   Facts: hasValue "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.
+   Types: Isbn
+Individual: 679783261  # Generated from value "679783261" located at cell 'books'!D6.
+   Facts: hasValue "679783261"  # Generated from value "679783261" located at cell 'books'!D6.
+   Types: Isbn
+Individual: 62024035  # Generated from value "62024035" located at cell 'books'!D7.
+   Facts: hasValue "62024035"  # Generated from value "62024035" located at cell 'books'!D7.
+   Types: Isbn
+Individual: 553296981  # Generated from value "553296981" located at cell 'books'!D8.
+   Facts: hasValue "553296981"  # Generated from value "553296981" located at cell 'books'!D8.
+   Types: Isbn
+Individual: 307269752  # Generated from value "307269752" located at cell 'books'!D9.
+   Facts: hasValue "307269752"  # Generated from value "307269752" located at cell 'books'!D9.
+   Types: Isbn
+Individual: 439023491  # Generated from value "439023491" located at cell 'books'!D10.
+   Facts: hasValue "439023491"  # Generated from value "439023491" located at cell 'books'!D10.
+   Types: Isbn
+Individual: 439023513  # Generated from value "439023513" located at cell 'books'!D11.
+   Facts: hasValue "439023513"  # Generated from value "439023513" located at cell 'books'!D11.
+   Types: Isbn
+
+# Cell range: (books!E2:E+) Comment: "Date (Book)"
+# Individual: @E*
+# Types: Date
+# Facts: hasValue @E*(xsd:string)
+
+Individual: 2008  # Generated from value "2008" located at cell 'books'!E2.
+   Facts: hasValue "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E3.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Date
+Individual: 1960  # Generated from value "1960" located at cell 'books'!E4.
+   Facts: hasValue "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Date
+Individual: 2000  # Generated from value "2000" located at cell 'books'!E5.
+   Facts: hasValue "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Date
+Individual: 1813  # Generated from value "1813" located at cell 'books'!E6.
+   Facts: hasValue "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Date
+Individual: 2011  # Generated from value "2011" located at cell 'books'!E7.
+   Facts: hasValue "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Date
+Individual: 1947  # Generated from value "1947" located at cell 'books'!E8.
+   Facts: hasValue "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E9.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Date
+Individual: 2009  # Generated from value "2009" located at cell 'books'!E10.
+   Facts: hasValue "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Date
+Individual: 2010  # Generated from value "2010" located at cell 'books'!E11.
+   Facts: hasValue "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Date
+
+# Cell range: (books!C2:C+) Comment: "Book"
+# Individual: @C*
+# Types: Book
+# Facts: hasName @C*(xsd:string)
+# Facts: hasLanguageCode @F*(xsd:string)
+# Facts: hasRating @G*(xsd:float)
+# Facts: wasWrittenBy @A*
+# Facts: hasGoodreadsID @B*
+# Facts: hasIsbn @D*
+# Facts: wasPublishedIn @E*
+
+Individual: The Hunger Games  # Generated from value "The Hunger Games" located at cell 'books'!C2.
+   Facts: hasName "The Hunger Games"  # Generated from value "The Hunger Games" located at cell 'books'!C2.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F2.,
+         hasRating 4.34  # Generated from value "4.34" located at cell 'books'!G2.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A2.,
+         hasGoodreadsID "2767052"  # Generated from value "2767052" located at cell 'books'!B2.,
+         hasIsbn "439023483"  # Generated from value "439023483" located at cell 'books'!D2.,
+         wasPublishedIn "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Book
+Individual: Twilight  # Generated from value "Twilight" located at cell 'books'!C3.
+   Facts: hasName "Twilight"  # Generated from value "Twilight" located at cell 'books'!C3.,
+         hasLanguageCode "en-US"  # Generated from value "en-US" located at cell 'books'!F3.,
+         hasRating 3.57  # Generated from value "3.57" located at cell 'books'!G3.,
+         wasWrittenBy "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'books'!A3.,
+         hasGoodreadsID "41865"  # Generated from value "41865" located at cell 'books'!B3.,
+         hasIsbn "316015849"  # Generated from value "316015849" located at cell 'books'!D3.,
+         wasPublishedIn "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Book
+Individual: To Kill a Mockingbird  # Generated from value "To Kill a Mockingbird" located at cell 'books'!C4.
+   Facts: hasName "To Kill a Mockingbird"  # Generated from value "To Kill a Mockingbird" located at cell 'books'!C4.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F4.,
+         hasRating 4.25  # Generated from value "4.25" located at cell 'books'!G4.,
+         wasWrittenBy "Harper Lee"  # Generated from value "Harper Lee" located at cell 'books'!A4.,
+         hasGoodreadsID "2657"  # Generated from value "2657" located at cell 'books'!B4.,
+         hasIsbn "61120081"  # Generated from value "61120081" located at cell 'books'!D4.,
+         wasPublishedIn "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Book
+Individual: Angels and Demons   # Generated from value "Angels and Demons " located at cell 'books'!C5.
+   Facts: hasName "Angels and Demons "  # Generated from value "Angels and Demons " located at cell 'books'!C5.,
+         hasLanguageCode "en-CA"  # Generated from value "en-CA" located at cell 'books'!F5.,
+         hasRating 3.85  # Generated from value "3.85" located at cell 'books'!G5.,
+         wasWrittenBy "Dan Brown"  # Generated from value "Dan Brown" located at cell 'books'!A5.,
+         hasGoodreadsID "960"  # Generated from value "960" located at cell 'books'!B5.,
+         hasIsbn "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.,
+         wasPublishedIn "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Book
+Individual: Pride and Prejudice  # Generated from value "Pride and Prejudice" located at cell 'books'!C6.
+   Facts: hasName "Pride and Prejudice"  # Generated from value "Pride and Prejudice" located at cell 'books'!C6.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F6.,
+         hasRating 4.24  # Generated from value "4.24" located at cell 'books'!G6.,
+         wasWrittenBy "Jane Austen"  # Generated from value "Jane Austen" located at cell 'books'!A6.,
+         hasGoodreadsID "1885"  # Generated from value "1885" located at cell 'books'!B6.,
+         hasIsbn "679783261"  # Generated from value "679783261" located at cell 'books'!D6.,
+         wasPublishedIn "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Book
+Individual: Divergent  # Generated from value "Divergent" located at cell 'books'!C7.
+   Facts: hasName "Divergent"  # Generated from value "Divergent" located at cell 'books'!C7.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F7.,
+         hasRating 4.24  # Generated from value "4.24" located at cell 'books'!G7.,
+         wasWrittenBy "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'books'!A7.,
+         hasGoodreadsID "13335037"  # Generated from value "13335037" located at cell 'books'!B7.,
+         hasIsbn "62024035"  # Generated from value "62024035" located at cell 'books'!D7.,
+         wasPublishedIn "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Book
+Individual: Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944  # Generated from value "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944" located at cell 'books'!C8.
+   Facts: hasName "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944"  # Generated from value "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944" located at cell 'books'!C8.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F8.,
+         hasRating 4.1  # Generated from value "4.1" located at cell 'books'!G8.,
+         wasWrittenBy "Anne Frank"  # Generated from value "Anne Frank" located at cell 'books'!A8.,
+         hasGoodreadsID "48855"  # Generated from value "48855" located at cell 'books'!B8.,
+         hasIsbn "553296981"  # Generated from value "553296981" located at cell 'books'!D8.,
+         wasPublishedIn "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Book
+Individual: MÃ¤n som hatar kvinnor  # Generated from value "MÃ¤n som hatar kvinnor" located at cell 'books'!C9.
+   Facts: hasName "MÃ¤n som hatar kvinnor"  # Generated from value "MÃ¤n som hatar kvinnor" located at cell 'books'!C9.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F9.,
+         hasRating 4.11  # Generated from value "4.11" located at cell 'books'!G9.,
+         wasWrittenBy "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'books'!A9.,
+         hasGoodreadsID "2429135"  # Generated from value "2429135" located at cell 'books'!B9.,
+         hasIsbn "307269752"  # Generated from value "307269752" located at cell 'books'!D9.,
+         wasPublishedIn "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Book
+Individual: Catching Fire  # Generated from value "Catching Fire" located at cell 'books'!C10.
+   Facts: hasName "Catching Fire"  # Generated from value "Catching Fire" located at cell 'books'!C10.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F10.,
+         hasRating 4.3  # Generated from value "4.3" located at cell 'books'!G10.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A10.,
+         hasGoodreadsID "6148028"  # Generated from value "6148028" located at cell 'books'!B10.,
+         hasIsbn "439023491"  # Generated from value "439023491" located at cell 'books'!D10.,
+         wasPublishedIn "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Book
+Individual: Mockingjay  # Generated from value "Mockingjay" located at cell 'books'!C11.
+   Facts: hasName "Mockingjay"  # Generated from value "Mockingjay" located at cell 'books'!C11.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F11.,
+         hasRating 4.03  # Generated from value "4.03" located at cell 'books'!G11.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A11.,
+         hasGoodreadsID "7260188"  # Generated from value "7260188" located at cell 'books'!B11.,
+         hasIsbn "439023513"  # Generated from value "439023513" located at cell 'books'!D11.,
+         wasPublishedIn "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Book
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (books!B2:B+) Comment: "GoodreadsID"
+# Individual: @B*
+# Types: GoodreadsID
+# Facts: hasValue @B*(xsd:string)
+
+Individual: 2767052  # Generated from value "2767052" located at cell 'books'!B2.
+   Facts: hasValue "2767052"  # Generated from value "2767052" located at cell 'books'!B2.
+   Types: GoodreadsID
+Individual: 41865  # Generated from value "41865" located at cell 'books'!B3.
+   Facts: hasValue "41865"  # Generated from value "41865" located at cell 'books'!B3.
+   Types: GoodreadsID
+Individual: 2657  # Generated from value "2657" located at cell 'books'!B4.
+   Facts: hasValue "2657"  # Generated from value "2657" located at cell 'books'!B4.
+   Types: GoodreadsID
+Individual: 960  # Generated from value "960" located at cell 'books'!B5.
+   Facts: hasValue "960"  # Generated from value "960" located at cell 'books'!B5.
+   Types: GoodreadsID
+Individual: 1885  # Generated from value "1885" located at cell 'books'!B6.
+   Facts: hasValue "1885"  # Generated from value "1885" located at cell 'books'!B6.
+   Types: GoodreadsID
+Individual: 13335037  # Generated from value "13335037" located at cell 'books'!B7.
+   Facts: hasValue "13335037"  # Generated from value "13335037" located at cell 'books'!B7.
+   Types: GoodreadsID
+Individual: 48855  # Generated from value "48855" located at cell 'books'!B8.
+   Facts: hasValue "48855"  # Generated from value "48855" located at cell 'books'!B8.
+   Types: GoodreadsID
+Individual: 2429135  # Generated from value "2429135" located at cell 'books'!B9.
+   Facts: hasValue "2429135"  # Generated from value "2429135" located at cell 'books'!B9.
+   Types: GoodreadsID
+Individual: 6148028  # Generated from value "6148028" located at cell 'books'!B10.
+   Facts: hasValue "6148028"  # Generated from value "6148028" located at cell 'books'!B10.
+   Types: GoodreadsID
+Individual: 7260188  # Generated from value "7260188" located at cell 'books'!B11.
+   Facts: hasValue "7260188"  # Generated from value "7260188" located at cell 'books'!B11.
+   Types: GoodreadsID
+
+===========================================================================================================
+Date: 2020-12-27 23:24:17
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+# Cell range: (books!D2:D+) Comment: "Isbn"
+# Individual: @D*
+# Types: Isbn
+# Facts: hasValue @D*(xsd:string)
+
+Individual: 439023483  # Generated from value "439023483" located at cell 'books'!D2.
+   Facts: hasValue "439023483"  # Generated from value "439023483" located at cell 'books'!D2.
+   Types: Isbn
+Individual: 316015849  # Generated from value "316015849" located at cell 'books'!D3.
+   Facts: hasValue "316015849"  # Generated from value "316015849" located at cell 'books'!D3.
+   Types: Isbn
+Individual: 61120081  # Generated from value "61120081" located at cell 'books'!D4.
+   Facts: hasValue "61120081"  # Generated from value "61120081" located at cell 'books'!D4.
+   Types: Isbn
+Individual: 1416524797  # Generated from value "1416524797" located at cell 'books'!D5.
+   Facts: hasValue "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.
+   Types: Isbn
+Individual: 679783261  # Generated from value "679783261" located at cell 'books'!D6.
+   Facts: hasValue "679783261"  # Generated from value "679783261" located at cell 'books'!D6.
+   Types: Isbn
+Individual: 62024035  # Generated from value "62024035" located at cell 'books'!D7.
+   Facts: hasValue "62024035"  # Generated from value "62024035" located at cell 'books'!D7.
+   Types: Isbn
+Individual: 553296981  # Generated from value "553296981" located at cell 'books'!D8.
+   Facts: hasValue "553296981"  # Generated from value "553296981" located at cell 'books'!D8.
+   Types: Isbn
+Individual: 307269752  # Generated from value "307269752" located at cell 'books'!D9.
+   Facts: hasValue "307269752"  # Generated from value "307269752" located at cell 'books'!D9.
+   Types: Isbn
+Individual: 439023491  # Generated from value "439023491" located at cell 'books'!D10.
+   Facts: hasValue "439023491"  # Generated from value "439023491" located at cell 'books'!D10.
+   Types: Isbn
+Individual: 439023513  # Generated from value "439023513" located at cell 'books'!D11.
+   Facts: hasValue "439023513"  # Generated from value "439023513" located at cell 'books'!D11.
+   Types: Isbn
+
+# Cell range: (books!E2:E+) Comment: "Date (Book)"
+# Individual: @E*
+# Types: Date
+# Facts: hasValue @E*(xsd:string)
+
+Individual: 2008  # Generated from value "2008" located at cell 'books'!E2.
+   Facts: hasValue "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E3.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Date
+Individual: 1960  # Generated from value "1960" located at cell 'books'!E4.
+   Facts: hasValue "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Date
+Individual: 2000  # Generated from value "2000" located at cell 'books'!E5.
+   Facts: hasValue "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Date
+Individual: 1813  # Generated from value "1813" located at cell 'books'!E6.
+   Facts: hasValue "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Date
+Individual: 2011  # Generated from value "2011" located at cell 'books'!E7.
+   Facts: hasValue "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Date
+Individual: 1947  # Generated from value "1947" located at cell 'books'!E8.
+   Facts: hasValue "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E9.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Date
+Individual: 2009  # Generated from value "2009" located at cell 'books'!E10.
+   Facts: hasValue "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Date
+Individual: 2010  # Generated from value "2010" located at cell 'books'!E11.
+   Facts: hasValue "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Date
+
+# Cell range: (books!C2:C+) Comment: "Book"
+# Individual: @C*
+# Types: Book
+# Facts: hasName @C*(xsd:string)
+# Facts: hasLanguageCode @F*(xsd:string)
+# Facts: hasRating @G*(xsd:float)
+# Facts: wasWrittenBy @A*
+# Facts: hasGoodreadsID @B*
+# Facts: hasIsbn @D*
+# Facts: wasPublishedIn @E*
+
+Individual: The Hunger Games  # Generated from value "The Hunger Games" located at cell 'books'!C2.
+   Facts: hasName "The Hunger Games"  # Generated from value "The Hunger Games" located at cell 'books'!C2.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F2.,
+         hasRating 4.34  # Generated from value "4.34" located at cell 'books'!G2.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A2.,
+         hasGoodreadsID "2767052"  # Generated from value "2767052" located at cell 'books'!B2.,
+         hasIsbn "439023483"  # Generated from value "439023483" located at cell 'books'!D2.,
+         wasPublishedIn "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Book
+Individual: Twilight  # Generated from value "Twilight" located at cell 'books'!C3.
+   Facts: hasName "Twilight"  # Generated from value "Twilight" located at cell 'books'!C3.,
+         hasLanguageCode "en-US"  # Generated from value "en-US" located at cell 'books'!F3.,
+         hasRating 3.57  # Generated from value "3.57" located at cell 'books'!G3.,
+         wasWrittenBy "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'books'!A3.,
+         hasGoodreadsID "41865"  # Generated from value "41865" located at cell 'books'!B3.,
+         hasIsbn "316015849"  # Generated from value "316015849" located at cell 'books'!D3.,
+         wasPublishedIn "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Book
+Individual: To Kill a Mockingbird  # Generated from value "To Kill a Mockingbird" located at cell 'books'!C4.
+   Facts: hasName "To Kill a Mockingbird"  # Generated from value "To Kill a Mockingbird" located at cell 'books'!C4.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F4.,
+         hasRating 4.25  # Generated from value "4.25" located at cell 'books'!G4.,
+         wasWrittenBy "Harper Lee"  # Generated from value "Harper Lee" located at cell 'books'!A4.,
+         hasGoodreadsID "2657"  # Generated from value "2657" located at cell 'books'!B4.,
+         hasIsbn "61120081"  # Generated from value "61120081" located at cell 'books'!D4.,
+         wasPublishedIn "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Book
+Individual: Angels and Demons   # Generated from value "Angels and Demons " located at cell 'books'!C5.
+   Facts: hasName "Angels and Demons "  # Generated from value "Angels and Demons " located at cell 'books'!C5.,
+         hasLanguageCode "en-CA"  # Generated from value "en-CA" located at cell 'books'!F5.,
+         hasRating 3.85  # Generated from value "3.85" located at cell 'books'!G5.,
+         wasWrittenBy "Dan Brown"  # Generated from value "Dan Brown" located at cell 'books'!A5.,
+         hasGoodreadsID "960"  # Generated from value "960" located at cell 'books'!B5.,
+         hasIsbn "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.,
+         wasPublishedIn "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Book
+Individual: Pride and Prejudice  # Generated from value "Pride and Prejudice" located at cell 'books'!C6.
+   Facts: hasName "Pride and Prejudice"  # Generated from value "Pride and Prejudice" located at cell 'books'!C6.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F6.,
+         hasRating 4.24  # Generated from value "4.24" located at cell 'books'!G6.,
+         wasWrittenBy "Jane Austen"  # Generated from value "Jane Austen" located at cell 'books'!A6.,
+         hasGoodreadsID "1885"  # Generated from value "1885" located at cell 'books'!B6.,
+         hasIsbn "679783261"  # Generated from value "679783261" located at cell 'books'!D6.,
+         wasPublishedIn "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Book
+Individual: Divergent  # Generated from value "Divergent" located at cell 'books'!C7.
+   Facts: hasName "Divergent"  # Generated from value "Divergent" located at cell 'books'!C7.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F7.,
+         hasRating 4.24  # Generated from value "4.24" located at cell 'books'!G7.,
+         wasWrittenBy "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'books'!A7.,
+         hasGoodreadsID "13335037"  # Generated from value "13335037" located at cell 'books'!B7.,
+         hasIsbn "62024035"  # Generated from value "62024035" located at cell 'books'!D7.,
+         wasPublishedIn "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Book
+Individual: Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944  # Generated from value "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944" located at cell 'books'!C8.
+   Facts: hasName "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944"  # Generated from value "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944" located at cell 'books'!C8.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F8.,
+         hasRating 4.1  # Generated from value "4.1" located at cell 'books'!G8.,
+         wasWrittenBy "Anne Frank"  # Generated from value "Anne Frank" located at cell 'books'!A8.,
+         hasGoodreadsID "48855"  # Generated from value "48855" located at cell 'books'!B8.,
+         hasIsbn "553296981"  # Generated from value "553296981" located at cell 'books'!D8.,
+         wasPublishedIn "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Book
+Individual: MÃ¤n som hatar kvinnor  # Generated from value "MÃ¤n som hatar kvinnor" located at cell 'books'!C9.
+   Facts: hasName "MÃ¤n som hatar kvinnor"  # Generated from value "MÃ¤n som hatar kvinnor" located at cell 'books'!C9.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F9.,
+         hasRating 4.11  # Generated from value "4.11" located at cell 'books'!G9.,
+         wasWrittenBy "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'books'!A9.,
+         hasGoodreadsID "2429135"  # Generated from value "2429135" located at cell 'books'!B9.,
+         hasIsbn "307269752"  # Generated from value "307269752" located at cell 'books'!D9.,
+         wasPublishedIn "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Book
+Individual: Catching Fire  # Generated from value "Catching Fire" located at cell 'books'!C10.
+   Facts: hasName "Catching Fire"  # Generated from value "Catching Fire" located at cell 'books'!C10.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F10.,
+         hasRating 4.3  # Generated from value "4.3" located at cell 'books'!G10.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A10.,
+         hasGoodreadsID "6148028"  # Generated from value "6148028" located at cell 'books'!B10.,
+         hasIsbn "439023491"  # Generated from value "439023491" located at cell 'books'!D10.,
+         wasPublishedIn "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Book
+Individual: Mockingjay  # Generated from value "Mockingjay" located at cell 'books'!C11.
+   Facts: hasName "Mockingjay"  # Generated from value "Mockingjay" located at cell 'books'!C11.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F11.,
+         hasRating 4.03  # Generated from value "4.03" located at cell 'books'!G11.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A11.,
+         hasGoodreadsID "7260188"  # Generated from value "7260188" located at cell 'books'!B11.,
+         hasIsbn "439023513"  # Generated from value "439023513" located at cell 'books'!D11.,
+         wasPublishedIn "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Book
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (books!B2:B+) Comment: "GoodreadsID"
+# Individual: @B*
+# Types: GoodreadsID
+# Facts: hasValue @B*(xsd:string)
+
+Individual: 2767052  # Generated from value "2767052" located at cell 'books'!B2.
+   Facts: hasValue "2767052"  # Generated from value "2767052" located at cell 'books'!B2.
+   Types: GoodreadsID
+Individual: 41865  # Generated from value "41865" located at cell 'books'!B3.
+   Facts: hasValue "41865"  # Generated from value "41865" located at cell 'books'!B3.
+   Types: GoodreadsID
+Individual: 2657  # Generated from value "2657" located at cell 'books'!B4.
+   Facts: hasValue "2657"  # Generated from value "2657" located at cell 'books'!B4.
+   Types: GoodreadsID
+Individual: 960  # Generated from value "960" located at cell 'books'!B5.
+   Facts: hasValue "960"  # Generated from value "960" located at cell 'books'!B5.
+   Types: GoodreadsID
+Individual: 1885  # Generated from value "1885" located at cell 'books'!B6.
+   Facts: hasValue "1885"  # Generated from value "1885" located at cell 'books'!B6.
+   Types: GoodreadsID
+Individual: 13335037  # Generated from value "13335037" located at cell 'books'!B7.
+   Facts: hasValue "13335037"  # Generated from value "13335037" located at cell 'books'!B7.
+   Types: GoodreadsID
+Individual: 48855  # Generated from value "48855" located at cell 'books'!B8.
+   Facts: hasValue "48855"  # Generated from value "48855" located at cell 'books'!B8.
+   Types: GoodreadsID
+Individual: 2429135  # Generated from value "2429135" located at cell 'books'!B9.
+   Facts: hasValue "2429135"  # Generated from value "2429135" located at cell 'books'!B9.
+   Types: GoodreadsID
+Individual: 6148028  # Generated from value "6148028" located at cell 'books'!B10.
+   Facts: hasValue "6148028"  # Generated from value "6148028" located at cell 'books'!B10.
+   Types: GoodreadsID
+Individual: 7260188  # Generated from value "7260188" located at cell 'books'!B11.
+   Facts: hasValue "7260188"  # Generated from value "7260188" located at cell 'books'!B11.
+   Types: GoodreadsID
+
+===========================================================================================================
+Date: 2020-12-28 08:58:29
+Ontology source: /C:/Users/rui/Desktop/goodreads.owl
+Worksheet source: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\goodreads.xlsx
+Transformation rules: C:\Users\rui\Documents\Repos\FEUP-DAPI\protege\data\import_rules.json
+
+# Cell range: (authors!E2:E+) Comment: "Location (Author, birth location)"
+# Individual: @E*
+# Types: Location
+# Facts: hasValue @E*(xsd:string)
+
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Location
+Individual: Hartford  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Facts: hasValue "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Location
+Individual: Monroeville  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Facts: hasValue "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Location
+Individual: Exeter  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Facts: hasValue "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Location
+Individual: Steventon  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Facts: hasValue "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Location
+Individual: New York City  # Generated from value "New York City" located at cell 'authors'!E7.
+   Facts: hasValue "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Location
+Individual: Frankfurt am Main  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Facts: hasValue "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Location
+Individual: Skelleftehamn  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Facts: hasValue "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Location
+
+# Cell range: (authors!A2:A+) Comment: "Author"
+# Individual: @A*
+# Types: Author
+# Facts: hasName @A*(xsd:string)
+# Facts: hasGender @B*(xsd:string)
+# Facts: wasBornInDate @C*
+# Facts: hasCitizenship @D*
+# Facts: wasBornInLocation @E*
+
+Individual: Suzanne Collins  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.
+   Facts: hasName "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'authors'!A2.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B2.,
+         wasBornInDate "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E2.
+   Types: Author
+Individual: Stephenie Meyer  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.
+   Facts: hasName "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'authors'!A3.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B3.,
+         wasBornInDate "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.,
+         wasBornInLocation "Hartford"  # Generated from value "Hartford" located at cell 'authors'!E3.
+   Types: Author
+Individual: Harper Lee  # Generated from value "Harper Lee" located at cell 'authors'!A4.
+   Facts: hasName "Harper Lee"  # Generated from value "Harper Lee" located at cell 'authors'!A4.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B4.,
+         wasBornInDate "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.,
+         wasBornInLocation "Monroeville"  # Generated from value "Monroeville" located at cell 'authors'!E4.
+   Types: Author
+Individual: Dan Brown  # Generated from value "Dan Brown" located at cell 'authors'!A5.
+   Facts: hasName "Dan Brown"  # Generated from value "Dan Brown" located at cell 'authors'!A5.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B5.,
+         wasBornInDate "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.,
+         wasBornInLocation "Exeter"  # Generated from value "Exeter" located at cell 'authors'!E5.
+   Types: Author
+Individual: Jane Austen  # Generated from value "Jane Austen" located at cell 'authors'!A6.
+   Facts: hasName "Jane Austen"  # Generated from value "Jane Austen" located at cell 'authors'!A6.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B6.,
+         wasBornInDate "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.,
+         hasCitizenship "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.,
+         wasBornInLocation "Steventon"  # Generated from value "Steventon" located at cell 'authors'!E6.
+   Types: Author
+Individual: Veronica Roth  # Generated from value "Veronica Roth" located at cell 'authors'!A7.
+   Facts: hasName "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'authors'!A7.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B7.,
+         wasBornInDate "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.,
+         hasCitizenship "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.,
+         wasBornInLocation "New York City"  # Generated from value "New York City" located at cell 'authors'!E7.
+   Types: Author
+Individual: Anne Frank  # Generated from value "Anne Frank" located at cell 'authors'!A8.
+   Facts: hasName "Anne Frank"  # Generated from value "Anne Frank" located at cell 'authors'!A8.,
+         hasGender "female"  # Generated from value "female" located at cell 'authors'!B8.,
+         wasBornInDate "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.,
+         wasBornInLocation "Frankfurt am Main"  # Generated from value "Frankfurt am Main" located at cell 'authors'!E8.
+   Types: Author
+Individual: Stieg Larsson  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.
+   Facts: hasName "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'authors'!A9.,
+         hasGender "male"  # Generated from value "male" located at cell 'authors'!B9.,
+         wasBornInDate "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.,
+         hasCitizenship "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.,
+         wasBornInLocation "Skelleftehamn"  # Generated from value "Skelleftehamn" located at cell 'authors'!E9.
+   Types: Author
+
+# Cell range: (books!D2:D+) Comment: "Isbn"
+# Individual: @D*
+# Types: Isbn
+# Facts: hasValue @D*(xsd:string)
+
+Individual: 439023483  # Generated from value "439023483" located at cell 'books'!D2.
+   Facts: hasValue "439023483"  # Generated from value "439023483" located at cell 'books'!D2.
+   Types: Isbn
+Individual: 316015849  # Generated from value "316015849" located at cell 'books'!D3.
+   Facts: hasValue "316015849"  # Generated from value "316015849" located at cell 'books'!D3.
+   Types: Isbn
+Individual: 61120081  # Generated from value "61120081" located at cell 'books'!D4.
+   Facts: hasValue "61120081"  # Generated from value "61120081" located at cell 'books'!D4.
+   Types: Isbn
+Individual: 1416524797  # Generated from value "1416524797" located at cell 'books'!D5.
+   Facts: hasValue "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.
+   Types: Isbn
+Individual: 679783261  # Generated from value "679783261" located at cell 'books'!D6.
+   Facts: hasValue "679783261"  # Generated from value "679783261" located at cell 'books'!D6.
+   Types: Isbn
+Individual: 62024035  # Generated from value "62024035" located at cell 'books'!D7.
+   Facts: hasValue "62024035"  # Generated from value "62024035" located at cell 'books'!D7.
+   Types: Isbn
+Individual: 553296981  # Generated from value "553296981" located at cell 'books'!D8.
+   Facts: hasValue "553296981"  # Generated from value "553296981" located at cell 'books'!D8.
+   Types: Isbn
+Individual: 307269752  # Generated from value "307269752" located at cell 'books'!D9.
+   Facts: hasValue "307269752"  # Generated from value "307269752" located at cell 'books'!D9.
+   Types: Isbn
+Individual: 439023491  # Generated from value "439023491" located at cell 'books'!D10.
+   Facts: hasValue "439023491"  # Generated from value "439023491" located at cell 'books'!D10.
+   Types: Isbn
+Individual: 439023513  # Generated from value "439023513" located at cell 'books'!D11.
+   Facts: hasValue "439023513"  # Generated from value "439023513" located at cell 'books'!D11.
+   Types: Isbn
+
+# Cell range: (books!E2:E+) Comment: "Date (Book)"
+# Individual: @E*
+# Types: Date
+# Facts: hasValue @E*(xsd:string)
+
+Individual: 2008  # Generated from value "2008" located at cell 'books'!E2.
+   Facts: hasValue "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E3.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Date
+Individual: 1960  # Generated from value "1960" located at cell 'books'!E4.
+   Facts: hasValue "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Date
+Individual: 2000  # Generated from value "2000" located at cell 'books'!E5.
+   Facts: hasValue "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Date
+Individual: 1813  # Generated from value "1813" located at cell 'books'!E6.
+   Facts: hasValue "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Date
+Individual: 2011  # Generated from value "2011" located at cell 'books'!E7.
+   Facts: hasValue "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Date
+Individual: 1947  # Generated from value "1947" located at cell 'books'!E8.
+   Facts: hasValue "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Date
+Individual: 2005  # Generated from value "2005" located at cell 'books'!E9.
+   Facts: hasValue "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Date
+Individual: 2009  # Generated from value "2009" located at cell 'books'!E10.
+   Facts: hasValue "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Date
+Individual: 2010  # Generated from value "2010" located at cell 'books'!E11.
+   Facts: hasValue "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Date
+
+# Cell range: (books!C2:C+) Comment: "Book"
+# Individual: @C*
+# Types: Book
+# Facts: hasName @C*(xsd:string)
+# Facts: hasLanguageCode @F*(xsd:string)
+# Facts: hasRating @G*(xsd:float)
+# Facts: wasWrittenBy @A*
+# Facts: hasGoodreadsID @B*
+# Facts: hasIsbn @D*
+# Facts: wasPublishedIn @E*
+
+Individual: The Hunger Games  # Generated from value "The Hunger Games" located at cell 'books'!C2.
+   Facts: hasName "The Hunger Games"  # Generated from value "The Hunger Games" located at cell 'books'!C2.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F2.,
+         hasRating 4.34  # Generated from value "4.34" located at cell 'books'!G2.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A2.,
+         hasGoodreadsID "2767052"  # Generated from value "2767052" located at cell 'books'!B2.,
+         hasIsbn "439023483"  # Generated from value "439023483" located at cell 'books'!D2.,
+         wasPublishedIn "2008"  # Generated from value "2008" located at cell 'books'!E2.
+   Types: Book
+Individual: Twilight  # Generated from value "Twilight" located at cell 'books'!C3.
+   Facts: hasName "Twilight"  # Generated from value "Twilight" located at cell 'books'!C3.,
+         hasLanguageCode "en-US"  # Generated from value "en-US" located at cell 'books'!F3.,
+         hasRating 3.57  # Generated from value "3.57" located at cell 'books'!G3.,
+         wasWrittenBy "Stephenie Meyer"  # Generated from value "Stephenie Meyer" located at cell 'books'!A3.,
+         hasGoodreadsID "41865"  # Generated from value "41865" located at cell 'books'!B3.,
+         hasIsbn "316015849"  # Generated from value "316015849" located at cell 'books'!D3.,
+         wasPublishedIn "2005"  # Generated from value "2005" located at cell 'books'!E3.
+   Types: Book
+Individual: To Kill a Mockingbird  # Generated from value "To Kill a Mockingbird" located at cell 'books'!C4.
+   Facts: hasName "To Kill a Mockingbird"  # Generated from value "To Kill a Mockingbird" located at cell 'books'!C4.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F4.,
+         hasRating 4.25  # Generated from value "4.25" located at cell 'books'!G4.,
+         wasWrittenBy "Harper Lee"  # Generated from value "Harper Lee" located at cell 'books'!A4.,
+         hasGoodreadsID "2657"  # Generated from value "2657" located at cell 'books'!B4.,
+         hasIsbn "61120081"  # Generated from value "61120081" located at cell 'books'!D4.,
+         wasPublishedIn "1960"  # Generated from value "1960" located at cell 'books'!E4.
+   Types: Book
+Individual: Angels & Demons   # Generated from value "Angels & Demons " located at cell 'books'!C5.
+   Facts: hasName "Angels & Demons "  # Generated from value "Angels & Demons " located at cell 'books'!C5.,
+         hasLanguageCode "en-CA"  # Generated from value "en-CA" located at cell 'books'!F5.,
+         hasRating 3.85  # Generated from value "3.85" located at cell 'books'!G5.,
+         wasWrittenBy "Dan Brown"  # Generated from value "Dan Brown" located at cell 'books'!A5.,
+         hasGoodreadsID "960"  # Generated from value "960" located at cell 'books'!B5.,
+         hasIsbn "1416524797"  # Generated from value "1416524797" located at cell 'books'!D5.,
+         wasPublishedIn "2000"  # Generated from value "2000" located at cell 'books'!E5.
+   Types: Book
+Individual: Pride and Prejudice  # Generated from value "Pride and Prejudice" located at cell 'books'!C6.
+   Facts: hasName "Pride and Prejudice"  # Generated from value "Pride and Prejudice" located at cell 'books'!C6.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F6.,
+         hasRating 4.24  # Generated from value "4.24" located at cell 'books'!G6.,
+         wasWrittenBy "Jane Austen"  # Generated from value "Jane Austen" located at cell 'books'!A6.,
+         hasGoodreadsID "1885"  # Generated from value "1885" located at cell 'books'!B6.,
+         hasIsbn "679783261"  # Generated from value "679783261" located at cell 'books'!D6.,
+         wasPublishedIn "1813"  # Generated from value "1813" located at cell 'books'!E6.
+   Types: Book
+Individual: Divergent  # Generated from value "Divergent" located at cell 'books'!C7.
+   Facts: hasName "Divergent"  # Generated from value "Divergent" located at cell 'books'!C7.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F7.,
+         hasRating 4.24  # Generated from value "4.24" located at cell 'books'!G7.,
+         wasWrittenBy "Veronica Roth"  # Generated from value "Veronica Roth" located at cell 'books'!A7.,
+         hasGoodreadsID "13335037"  # Generated from value "13335037" located at cell 'books'!B7.,
+         hasIsbn "62024035"  # Generated from value "62024035" located at cell 'books'!D7.,
+         wasPublishedIn "2011"  # Generated from value "2011" located at cell 'books'!E7.
+   Types: Book
+Individual: Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944  # Generated from value "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944" located at cell 'books'!C8.
+   Facts: hasName "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944"  # Generated from value "Het Achterhuis Dagboekbrieven 14 juni 1942 - 1 augustus 1944" located at cell 'books'!C8.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F8.,
+         hasRating 4.1  # Generated from value "4.1" located at cell 'books'!G8.,
+         wasWrittenBy "Anne Frank"  # Generated from value "Anne Frank" located at cell 'books'!A8.,
+         hasGoodreadsID "48855"  # Generated from value "48855" located at cell 'books'!B8.,
+         hasIsbn "553296981"  # Generated from value "553296981" located at cell 'books'!D8.,
+         wasPublishedIn "1947"  # Generated from value "1947" located at cell 'books'!E8.
+   Types: Book
+Individual: Man som hatar kvinnor  # Generated from value "Man som hatar kvinnor" located at cell 'books'!C9.
+   Facts: hasName "Man som hatar kvinnor"  # Generated from value "Man som hatar kvinnor" located at cell 'books'!C9.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F9.,
+         hasRating 4.11  # Generated from value "4.11" located at cell 'books'!G9.,
+         wasWrittenBy "Stieg Larsson"  # Generated from value "Stieg Larsson" located at cell 'books'!A9.,
+         hasGoodreadsID "2429135"  # Generated from value "2429135" located at cell 'books'!B9.,
+         hasIsbn "307269752"  # Generated from value "307269752" located at cell 'books'!D9.,
+         wasPublishedIn "2005"  # Generated from value "2005" located at cell 'books'!E9.
+   Types: Book
+Individual: Catching Fire  # Generated from value "Catching Fire" located at cell 'books'!C10.
+   Facts: hasName "Catching Fire"  # Generated from value "Catching Fire" located at cell 'books'!C10.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F10.,
+         hasRating 4.3  # Generated from value "4.3" located at cell 'books'!G10.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A10.,
+         hasGoodreadsID "6148028"  # Generated from value "6148028" located at cell 'books'!B10.,
+         hasIsbn "439023491"  # Generated from value "439023491" located at cell 'books'!D10.,
+         wasPublishedIn "2009"  # Generated from value "2009" located at cell 'books'!E10.
+   Types: Book
+Individual: Mockingjay  # Generated from value "Mockingjay" located at cell 'books'!C11.
+   Facts: hasName "Mockingjay"  # Generated from value "Mockingjay" located at cell 'books'!C11.,
+         hasLanguageCode "eng"  # Generated from value "eng" located at cell 'books'!F11.,
+         hasRating 4.03  # Generated from value "4.03" located at cell 'books'!G11.,
+         wasWrittenBy "Suzanne Collins"  # Generated from value "Suzanne Collins" located at cell 'books'!A11.,
+         hasGoodreadsID "7260188"  # Generated from value "7260188" located at cell 'books'!B11.,
+         hasIsbn "439023513"  # Generated from value "439023513" located at cell 'books'!D11.,
+         wasPublishedIn "2010"  # Generated from value "2010" located at cell 'books'!E11.
+   Types: Book
+
+# Cell range: (authors!C2:C+) Comment: "Date (Author)"
+# Individual: @C*
+# Types: Date
+# Facts: hasValue @C*(xsd:string)
+
+Individual: 1962-08-10  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Facts: hasValue "1962-08-10"  # Generated from value "1962-08-10" located at cell 'authors'!C2.
+   Types: Date
+Individual: 1973-12-24  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Facts: hasValue "1973-12-24"  # Generated from value "1973-12-24" located at cell 'authors'!C3.
+   Types: Date
+Individual: 1926-04-28  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Facts: hasValue "1926-04-28"  # Generated from value "1926-04-28" located at cell 'authors'!C4.
+   Types: Date
+Individual: 1964-06-22  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Facts: hasValue "1964-06-22"  # Generated from value "1964-06-22" located at cell 'authors'!C5.
+   Types: Date
+Individual: 1775-12-16  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Facts: hasValue "1775-12-16"  # Generated from value "1775-12-16" located at cell 'authors'!C6.
+   Types: Date
+Individual: 1988-08-19  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Facts: hasValue "1988-08-19"  # Generated from value "1988-08-19" located at cell 'authors'!C7.
+   Types: Date
+Individual: 1929-06-12  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Facts: hasValue "1929-06-12"  # Generated from value "1929-06-12" located at cell 'authors'!C8.
+   Types: Date
+Individual: 1954-08-15  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Facts: hasValue "1954-08-15"  # Generated from value "1954-08-15" located at cell 'authors'!C9.
+   Types: Date
+
+# Cell range: (authors!D2:D+) Comment: "Location (Author, citizenship location)"
+# Individual: @D*
+# Types: Location
+# Facts: hasValue @D*(xsd:string)
+
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D2.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D3.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D4.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D5.
+   Types: Location
+Individual: Great Britain  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Facts: hasValue "Great Britain"  # Generated from value "Great Britain" located at cell 'authors'!D6.
+   Types: Location
+Individual: United States of America  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Facts: hasValue "United States of America"  # Generated from value "United States of America" located at cell 'authors'!D7.
+   Types: Location
+Individual: Sweden  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Facts: hasValue "Sweden"  # Generated from value "Sweden" located at cell 'authors'!D9.
+   Types: Location
+
+# Cell range: (books!B2:B+) Comment: "GoodreadsID"
+# Individual: @B*
+# Types: GoodreadsID
+# Facts: hasValue @B*(xsd:string)
+
+Individual: 2767052  # Generated from value "2767052" located at cell 'books'!B2.
+   Facts: hasValue "2767052"  # Generated from value "2767052" located at cell 'books'!B2.
+   Types: GoodreadsID
+Individual: 41865  # Generated from value "41865" located at cell 'books'!B3.
+   Facts: hasValue "41865"  # Generated from value "41865" located at cell 'books'!B3.
+   Types: GoodreadsID
+Individual: 2657  # Generated from value "2657" located at cell 'books'!B4.
+   Facts: hasValue "2657"  # Generated from value "2657" located at cell 'books'!B4.
+   Types: GoodreadsID
+Individual: 960  # Generated from value "960" located at cell 'books'!B5.
+   Facts: hasValue "960"  # Generated from value "960" located at cell 'books'!B5.
+   Types: GoodreadsID
+Individual: 1885  # Generated from value "1885" located at cell 'books'!B6.
+   Facts: hasValue "1885"  # Generated from value "1885" located at cell 'books'!B6.
+   Types: GoodreadsID
+Individual: 13335037  # Generated from value "13335037" located at cell 'books'!B7.
+   Facts: hasValue "13335037"  # Generated from value "13335037" located at cell 'books'!B7.
+   Types: GoodreadsID
+Individual: 48855  # Generated from value "48855" located at cell 'books'!B8.
+   Facts: hasValue "48855"  # Generated from value "48855" located at cell 'books'!B8.
+   Types: GoodreadsID
+Individual: 2429135  # Generated from value "2429135" located at cell 'books'!B9.
+   Facts: hasValue "2429135"  # Generated from value "2429135" located at cell 'books'!B9.
+   Types: GoodreadsID
+Individual: 6148028  # Generated from value "6148028" located at cell 'books'!B10.
+   Facts: hasValue "6148028"  # Generated from value "6148028" located at cell 'books'!B10.
+   Types: GoodreadsID
+Individual: 7260188  # Generated from value "7260188" located at cell 'books'!B11.
+   Facts: hasValue "7260188"  # Generated from value "7260188" located at cell 'books'!B11.
+   Types: GoodreadsID
+
+===========================================================================================================
