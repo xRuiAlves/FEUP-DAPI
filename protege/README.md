@@ -20,8 +20,10 @@ npm i csv-parse
 ./filter_dataset.sh
 ```
 
-This will build 3 JSON files under the `:repo/protege/data` directory:
+This will build 3 CSV files under the `:repo/protege/data` directory:
 
-- `books.json`, featuring the filtered books set
-- `authors.json`, featuing the filtered authors set
-- `reviews.json`, featuring the filtered reviews set
+- `books.jcsv`, featuring the filtered books set
+- `authors.jcsv`, featuing the filtered authors set
+- `reviews.jcsv`, featuring the filtered reviews set
+
+They can then be converted to `xlsx` using a tool such as [cloudconvert](https://cloudconvert.com/csv-to-xlsx).

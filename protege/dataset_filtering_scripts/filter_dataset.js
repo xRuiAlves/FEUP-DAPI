@@ -61,7 +61,7 @@ raw_books.forEach((book) => {
     const book_obj = {
         author,
         id: goodreads_book_id,
-        title,
+        title: title.replace(":", ""),
         isbn,
         publication_year,
         language_code,
@@ -78,7 +78,7 @@ raw_reviews.forEach((entry) => {
         book_id,
         book_name: books_map.get(book_id).title,
         review_rating: rating,
-        review_text,
+        review_text: review_text.replace(":", ""),
         date,
     };
 
