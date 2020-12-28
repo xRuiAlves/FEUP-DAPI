@@ -17,6 +17,7 @@ const BOOKS_CSV_HEADERS = Object.freeze([
 ]);
 
 const REVIEWS_CSV_HEADERS = Object.freeze([
+    "id",
     "book_id",
     "book_name",
     "review_rating",

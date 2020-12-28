@@ -82,9 +82,11 @@ raw_books.forEach((book) => {
 });
 
 // reviews
+let review_id_counter = 0
 raw_reviews.forEach((entry) => {
     const { book_id, rating, review_text, date } = JSON.parse(entry);
     const review_obj = {
+        id: review_id_counter++,
         book_id,
         book_name: books_map.get(book_id).title,
         review_rating: rating,
